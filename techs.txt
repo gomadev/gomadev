@@ -1,8 +1,0 @@
-## Habilidades
-
-- **Linguagens:** Python, Java (17, 21), R  
-- **Análise & Dados:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, OpenCV, OpenCL  
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, Scikit-learn, PCA, K-Means Clustering, Random Forest, PyTorch  
-- **Bancos de Dados:** MySQL, PostgreSQL, SQL Server, Firebase  
-- **Desenvolvimento:** Spring Framework, Hibernate, Maven, APIs RESTful  
-- **Ferramentas & Outros:** Git, Selenium, Beautiful Soup, Power BI  
