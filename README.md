@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Rio lança modelo de IA, sofre críticas e é desmascarado em horas](https://tecnoblog.net/noticias/rio-lanca-modelo-de-ia-sofre-criticas-e-e-desmascarada-em-horas/) — IA sofre críticas `tecnoblog`
+<img src="arrows.png" width="14"/> [Xbox perde dois executivos em onda de demissões](https://tecnoblog.net/noticias/xbox-perde-dois-executivos-em-onda-de-demissoes/) — mudanças no Xbox `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Malware cita armas nucleares, engana IA e invade servidores](https://tecnoblog.net/noticias/malware-cita-armas-nucleares-engana-ia-e-invade-servidores/) — Malware engana IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Google Earth agora transforma seu navegador em simulador de voo](https://tecnoblog.net/noticias/google-earth-agora-transforma-seu-navegador-em-simulador-de-voo/) — Google Earth inova `tecnoblog`
 
-<img src="arrows.png" width="14"/> [“Brasil é um parceiro confiável”: Europa quer aliança para disputar corrida da IA](https://tecnoblog.net/noticias/brasil-e-parceiro-confiavel-europa-quer-alianca-para-disputar-a-corrida-de-ia/) — Aliança IA Brasil `tecnoblog`
+<img src="arrows.png" width="14"/> [Meta exige que funcionários economizem tokens, após gasto bilionário](https://tecnoblog.net/noticias/meta-exige-que-funcionarios-economizem-tokens-gasto-chega-aos-bilhoes-de-dolares/) — Meta economiza `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Fable 5: por que os EUA vetaram o acesso ao modelo do Claude?](<![CDATA[https://canaltech.com.br/inteligencia-artificial/fable-5-por-que-os-eua-vetaram-o-acesso-ao-modelo-do-claude/]]>) — EUA vetam Claude `canaltech`
+<img src="arrows.png" width="14"/> [Justiça do Brasil multa Apple, Google e gigantes dos games em R$ 298 milhões](<![CDATA[https://canaltech.com.br/mercado/justica-do-brasil-multa-apple-google-e-gigantes-dos-games-em-r-298-milhoes/]]>) — Justiça multa `canaltech`
 
-<img src="arrows.png" width="14"/> [Funcionários perdem mais de 6 horas por semana corrigindo erros de IA](<![CDATA[https://canaltech.com.br/inteligencia-artificial/funcionarios-perdem-mais-de-6-horas-por-semana-corrigindo-erros-de-ia/]]>) — Erros IA custam `canaltech`
+<img src="arrows.png" width="14"/> [4 lançamentos da Samsung aparecem na "Anatel americana"; veja o que já sabemos](<![CDATA[https://canaltech.com.br/produtos/4-lancamentos-da-samsung-aparecem-na-anatel-americana-veja-o-que-ja-sabemos/]]>) — Samsung lança `canaltech`
 
-<img src="arrows.png" width="14"/> [Claude Fable 5: EUA barram modelo da Anthropic por segurança nacional](https://tecnoblog.net/noticias/eua-barram-modelos-da-anthropic-por-seguranca-nacional/) — EUA barram Anthropic `tecnoblog`
+<img src="arrows.png" width="14"/> [CPUs Intel Core com GPU NVIDIA RTX devem estrear em menos de dois anos](<![CDATA[https://canaltech.com.br/hardware/cpus-intel-core-com-gpu-nvidia-rtx-devem-estrear-em-menos-de-dois-anos/]]>) — Intel e NVIDIA `canaltech`
 
-<img src="arrows.png" width="14"/> [Dados de saúde de smartwatches quase nunca chegam aos médicos](https://tecnoblog.net/noticias/dados-de-saude-de-smartwatches-quase-nunca-chegam-aos-medicos/) — Dados saúde perdidos `tecnoblog`
+<img src="arrows.png" width="14"/> [Teenage Engineering lança máquina para fazer "mix-tape" em discos de vinil](<![CDATA[https://canaltech.com.br/produtos/teenage-engineering-lanca-maquina-para-fazer-mix-tape-em-discos-de-vinil/]]>) — Tecnologia em vinil `canaltech`
 
-<img src="arrows.png" width="14"/> [Amazon queima estoque: Teclado Gamer HyperX Alloy Core RGB por R$ 189,99!](<![CDATA[https://canaltech.com.br/hardware/amazon-queima-estoque-teclado-gamer-hyperx-alloy-core-rgb-por-r-18999/]]>) — Oferta teclado gamer `canaltech`
+<img src="arrows.png" width="14"/> [Rumores sobre atraso no lançamento do iPhone dobrável são falsos, diz leaker](<![CDATA[https://canaltech.com.br/smartphone/rumores-sobre-atraso-no-lancamento-do-iphone-dobravel-sao-falsos-diz-leaker/]]>) — iPhone dobrável `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A corrida da IA é um tema quente no momento, com os EUA vetando o acesso ao modelo do Claude e o Brasil sendo considerado um parceiro confiável para alianças na área. Isso mostra que a IA é uma tecnologia estratégica e que os países estão disputando a liderança nesse setor.
+> <img src="arrows.png" width="14"/> Hoje, a tecnologia avança em várias frentes, desde inovações em jogos e dispositivos móveis até mudanças significativas em empresas líderes do setor. A notícia do dia é a possibilidade de CPUs Intel Core com GPU NVIDIA RTX, que promete revolucionar a indústria de hardware e ter um impacto profundo no desenvolvimento de soluções de backend, data engineering e IA.
 
 <br/>
 
