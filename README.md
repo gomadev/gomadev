@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Xbox perde dois executivos em onda de demissões](https://tecnoblog.net/noticias/xbox-perde-dois-executivos-em-onda-de-demissoes/) — mudanças no Xbox `tecnoblog`
+<img src="arrows.png" width="14"/> [O Android 17 é oficial; veja as principais novidades](https://tecnoblog.net/noticias/o-android-17-e-oficial-veja-as-principais-novidades/) — novo sistema operacional `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Google Earth agora transforma seu navegador em simulador de voo](https://tecnoblog.net/noticias/google-earth-agora-transforma-seu-navegador-em-simulador-de-voo/) — Google Earth inova `tecnoblog`
+<img src="arrows.png" width="14"/> [Universitários abandonam discurso de Sundar Pichai em protesto contra IA](https://tecnoblog.net/noticias/universitarios-abandonam-discurso-de-sundar-pichai-em-protesto-contra-ia/) — protesto contra IA `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Meta exige que funcionários economizem tokens, após gasto bilionário](https://tecnoblog.net/noticias/meta-exige-que-funcionarios-economizem-tokens-gasto-chega-aos-bilhoes-de-dolares/) — Meta economiza `tecnoblog`
+<img src="arrows.png" width="14"/> [Justiça brasileira multa big techs e estúdios de games em R$ 298 milhões](https://tecnoblog.net/noticias/justica-brasileira-multa-big-techs-e-estudios-de-games-em-r-298-milhoes/) — multa big techs `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Justiça do Brasil multa Apple, Google e gigantes dos games em R$ 298 milhões](<![CDATA[https://canaltech.com.br/mercado/justica-do-brasil-multa-apple-google-e-gigantes-dos-games-em-r-298-milhoes/]]>) — Justiça multa `canaltech`
+<img src="arrows.png" width="14"/> [Levar o FSR 4 para as Radeon RX 6000 será desafiador, explica AMD](<![CDATA[https://canaltech.com.br/hardware/levar-o-fsr-4-para-as-radeon-rx-6000-sera-desafiador-explica-amd/]]>) — desafio tecnológico `canaltech`
 
-<img src="arrows.png" width="14"/> [4 lançamentos da Samsung aparecem na "Anatel americana"; veja o que já sabemos](<![CDATA[https://canaltech.com.br/produtos/4-lancamentos-da-samsung-aparecem-na-anatel-americana-veja-o-que-ja-sabemos/]]>) — Samsung lança `canaltech`
+<img src="arrows.png" width="14"/> [Veja como testar as novidades do Gemini antes de todo mundo](<![CDATA[https://canaltech.com.br/apps/veja-como-testar-as-novidades-do-gemini-antes-de-todo-mundo/]]>) — novidades em testes `canaltech`
 
-<img src="arrows.png" width="14"/> [CPUs Intel Core com GPU NVIDIA RTX devem estrear em menos de dois anos](<![CDATA[https://canaltech.com.br/hardware/cpus-intel-core-com-gpu-nvidia-rtx-devem-estrear-em-menos-de-dois-anos/]]>) — Intel e NVIDIA `canaltech`
+<img src="arrows.png" width="14"/> [O carro do futuro será definido pelos chips, não pelos motores](<![CDATA[https://canaltech.com.br/colunas/o-carro-do-futuro-sera-definido-pelos-chips-nao-pelos-motores/]]>) — carro do futuro `canaltech`
 
-<img src="arrows.png" width="14"/> [Teenage Engineering lança máquina para fazer "mix-tape" em discos de vinil](<![CDATA[https://canaltech.com.br/produtos/teenage-engineering-lanca-maquina-para-fazer-mix-tape-em-discos-de-vinil/]]>) — Tecnologia em vinil `canaltech`
+<img src="arrows.png" width="14"/> [Crise da memória RAM: notebooks devem ficar mais que 30% mais caros em 2026](<![CDATA[https://canaltech.com.br/hardware/crise-da-memoria-ram-notebooks-ficam-ate-30-mais-caros-em-2026/]]>) — crise de memória `canaltech`
 
-<img src="arrows.png" width="14"/> [Rumores sobre atraso no lançamento do iPhone dobrável são falsos, diz leaker](<![CDATA[https://canaltech.com.br/smartphone/rumores-sobre-atraso-no-lancamento-do-iphone-dobravel-sao-falsos-diz-leaker/]]>) — iPhone dobrável `canaltech`
+<img src="arrows.png" width="14"/> [Celular Samsung com câmera boa: 6 modelos para comprar em 2026](https://tecnoblog.net/guias/celular-samsung-camera-boa/) — câmera de qualidade `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> Hoje, a tecnologia avança em várias frentes, desde inovações em jogos e dispositivos móveis até mudanças significativas em empresas líderes do setor. A notícia do dia é a possibilidade de CPUs Intel Core com GPU NVIDIA RTX, que promete revolucionar a indústria de hardware e ter um impacto profundo no desenvolvimento de soluções de backend, data engineering e IA.
+> <img src="arrows.png" width="14"/> O lançamento do Android 17 traz novidades importantes para o ecossistema de dispositivos móveis, enquanto a crise de memória RAM pode impactar significativamente o mercado de notebooks em 2026, com preços previstos para aumentar em até 30% devido à escassez de componentes.
 
 <br/>
 
