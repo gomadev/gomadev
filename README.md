@@ -10,25 +10,21 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [O Android 17 é oficial; veja as principais novidades](https://tecnoblog.net/noticias/o-android-17-e-oficial-veja-as-principais-novidades/) — novo sistema operacional `tecnoblog`
+<img src="arrows.png" width="14"/> [“Inevitável”: Cook diz que Apple vai aumentar preços dos produtos](https://tecnoblog.net/noticias/inevitavel-cook-diz-que-apple-vai-aumentar-precos-dos-produtos/) — Aumento de preços `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Universitários abandonam discurso de Sundar Pichai em protesto contra IA](https://tecnoblog.net/noticias/universitarios-abandonam-discurso-de-sundar-pichai-em-protesto-contra-ia/) — protesto contra IA `tecnoblog`
+<img src="arrows.png" width="14"/> [ChatGPT caiu? Serviço apresenta falhas nesta terça-feira (17/06)](https://tecnoblog.net/noticias/chatgpt-apresenta-falhas-nesta-terca-feira-17-06/) — Falha em IA `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Justiça brasileira multa big techs e estúdios de games em R$ 298 milhões](https://tecnoblog.net/noticias/justica-brasileira-multa-big-techs-e-estudios-de-games-em-r-298-milhoes/) — multa big techs `tecnoblog`
+<img src="arrows.png" width="14"/> [Bug no Office: atualização do Windows quebra integração com outros apps](https://tecnoblog.net/noticias/bug-no-office-atualizacao-do-windows-11-quebra-integracao-com-outros-apps/) — Bug no Office `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Levar o FSR 4 para as Radeon RX 6000 será desafiador, explica AMD](<![CDATA[https://canaltech.com.br/hardware/levar-o-fsr-4-para-as-radeon-rx-6000-sera-desafiador-explica-amd/]]>) — desafio tecnológico `canaltech`
+<img src="arrows.png" width="14"/> [Nova IA da Samsung vai mudar como cuidar do seu pet](<![CDATA[https://canaltech.com.br/apps/nova-ia-da-samsung-vai-mudar-como-cuidar-do-seu-pet/]]>) — IA para pets `canaltech`
 
-<img src="arrows.png" width="14"/> [Veja como testar as novidades do Gemini antes de todo mundo](<![CDATA[https://canaltech.com.br/apps/veja-como-testar-as-novidades-do-gemini-antes-de-todo-mundo/]]>) — novidades em testes `canaltech`
+<img src="arrows.png" width="14"/> [Samsung confirma avanço do Exynos 2700 e mira Galaxy S27 em 2027](<![CDATA[https://canaltech.com.br/smartphone/samsung-confirma-avanco-do-exynos-2700-e-mira-galaxy-s27-em-2027/]]>) — Avanço do Exynos `canaltech`
 
-<img src="arrows.png" width="14"/> [O carro do futuro será definido pelos chips, não pelos motores](<![CDATA[https://canaltech.com.br/colunas/o-carro-do-futuro-sera-definido-pelos-chips-nao-pelos-motores/]]>) — carro do futuro `canaltech`
-
-<img src="arrows.png" width="14"/> [Crise da memória RAM: notebooks devem ficar mais que 30% mais caros em 2026](<![CDATA[https://canaltech.com.br/hardware/crise-da-memoria-ram-notebooks-ficam-ate-30-mais-caros-em-2026/]]>) — crise de memória `canaltech`
-
-<img src="arrows.png" width="14"/> [Celular Samsung com câmera boa: 6 modelos para comprar em 2026](https://tecnoblog.net/guias/celular-samsung-camera-boa/) — câmera de qualidade `tecnoblog`
+<img src="arrows.png" width="14"/> [iPhone vai ficar mais caro, confirma CEO da Apple, Tim Cook](<![CDATA[https://canaltech.com.br/produtos/tim-cook-confirma-aumento-nos-precos-de-iphones-macs-e-ipads-inevitavel/]]>) — Aumento de preços `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> O lançamento do Android 17 traz novidades importantes para o ecossistema de dispositivos móveis, enquanto a crise de memória RAM pode impactar significativamente o mercado de notebooks em 2026, com preços previstos para aumentar em até 30% devido à escassez de componentes.
+> <img src="arrows.png" width="14"/> A notícia do aumento de preços da Apple pode ter um impacto significativo no mercado tecnológico, especialmente se outros fabricantes seguirem o exemplo. Além disso, a falha no ChatGPT e o bug no Office são exemplos de como a tecnologia pode falhar e afetar a produtividade dos usuários.
 
 <br/>
 
