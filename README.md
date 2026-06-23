@@ -10,25 +10,19 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Atualização do Windows 11 causa bugs no Office, OneDrive e até na Lixeira](https://tecnoblog.net/noticias/atualizacao-do-windows-11-causa-bugs-no-office-onedrive-e-ate-na-lixeira/) — Bugs no Windows `tecnoblog`
+<img src="arrows.png" width="14"/> [Advogado tenta prompt injection de IA e recebe multa de R$ 32,8 mil](https://tecnoblog.net/noticias/advogado-tenta-prompt-injection-de-ia-e-recebe-multa-de-r-328-mil/) — IA em ação `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Acordo histórico faz Samsung liberar ChatGPT para funcionários](<![CDATA[https://canaltech.com.br/mercado/acordo-historico-faz-samsung-liberar-chatgpt-para-funcionarios/]]>) — ChatGPT liberado `canaltech`
+<img src="arrows.png" width="14"/> [uBlock Origin terá suporte “pelo maior tempo possível” no Opera](https://tecnoblog.net/noticias/opera-promete-suporte-ao-ublock-origin-pelo-maior-tempo-possivel/) — Privacidade online `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Marca gamer da Xiaomi faliu? Entenda o que está acontecendo a Black Shark](<![CDATA[https://canaltech.com.br/produtos/marca-gamer-da-xiaomi-faliu-entenda-o-que-esta-acontecendo-a-black-shark/]]>) — Marca gamer faliu `canaltech`
+<img src="arrows.png" width="14"/> [Como transferir fotos do Google Fotos para o iCloud](https://tecnoblog.net/responde/como-transferir-fotos-do-google-fotos-para-o-icloud/) — Fotos seguras `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Galaxy S27 Pro e S27 Ultra podem chegar com tela de privacidade em 2027](<![CDATA[https://canaltech.com.br/smartphone/galaxy-s27-pro-e-s27-ultra-podem-chegar-com-tela-de-privacidade-em-2027/]]>) — Tecnologia de privacidade `canaltech`
+<img src="arrows.png" width="14"/> [Microsoft volta atrás e vai forçar instalação do Copilot no Windows](<![CDATA[https://canaltech.com.br/software/microsoft-volta-atras-e-vai-forcar-instalacao-do-copilot-no-windows/]]>) — Tecnologia avançada `canaltech`
 
-<img src="arrows.png" width="14"/> [Trump diz que Apple vai fabricar chips com ajuda da Intel](https://tecnoblog.net/noticias/trump-diz-que-apple-vai-fabricar-chips-com-ajuda-da-intel/) — Parceria Apple `tecnoblog`
-
-<img src="arrows.png" width="14"/> [Este truque ajuda a descobrir quem te bloqueou no WhatsApp](<![CDATA[https://canaltech.com.br/apps/este-truque-ajuda-a-descobrir-quem-te-bloqueou-no-whatsapp/]]>) — Truque WhatsApp `canaltech`
-
-<img src="arrows.png" width="14"/> [Modo multiplayer de The Last of Us 2 sai do papel, mas só no PC](<![CDATA[https://canaltech.com.br/games/modo-multiplayer-de-the-last-of-us-2-sai-do-papel-mas-so-no-pc/]]>) — Modo multiplayer `canaltech`
-
-<img src="arrows.png" width="14"/> [Como um “truque” logístico vai ajudar a Leapmotor a dominar importações](<![CDATA[https://canaltech.com.br/carros/como-um-truque-logistico-vai-ajudar-a-leapmotor-a-dominar-importacoes/]]>) — Logística inovadora `canaltech`
+<img src="arrows.png" width="14"/> [Meta cria “memória de marca” para anúncios feitos com IA](<![CDATA[https://canaltech.com.br/apps/meta-cria-memoria-de-marca-para-anuncios-feitos-com-ia/]]>) — IA em anúncios `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> O tema mais quente do dia é a liberação do ChatGPT para funcionários da Samsung, o que pode revolucionar a forma como as empresas lidam com a inteligência artificial. Além disso, a falência da marca gamer Black Shark da Xiaomi pode ser um sinal de que o mercado de dispositivos gamer está passando por uma grande mudança.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está transformando a forma como vivemos e trabalhamos, com aplicações em diversas áreas, desde a automação de tarefas até a criação de conteúdo personalizado. A notícia sobre o advogado que tentou prompt injection de IA e recebeu multa de R$ 32,8 mil chama a atenção para a importância da segurança e ética no uso da IA.
 
 <br/>
 
