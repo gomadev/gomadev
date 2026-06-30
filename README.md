@@ -10,25 +10,15 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [OpenAI revela prévia do GPT 5.6, que chega com acesso restrito](https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/) — melhora IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Windows 11: a nova Barra de Tarefas móvel funciona assim](https://tecnoblog.net/noticias/windows-11-a-nova-barra-de-tarefas-movel-funciona-assim/) — Melhoria desktop `tecnoblog`
 
-<img src="arrows.png" width="14"/> ["IA perigosa" do Claude é liberada novamente, mas para poucos](<![CDATA[https://canaltech.com.br/inteligencia-artificial/ia-perigosa-do-claude-e-liberada-novamente-mas-para-poucos/]]>) — IA perigosa `canaltech`
+<img src="arrows.png" width="14"/> [Samsung, SK Hynix e Micron são processadas por inflar preço da RAM em 700%](<![CDATA[https://canaltech.com.br/hardware/samsung-sk-hynix-e-micron-sao-processadas-por-inflar-preco-da-ram-em-700/]]>) — Preços inflados `canaltech`
 
-<img src="arrows.png" width="14"/> [Cofundador da Wikipedia está banido… da Wikipedia](https://tecnoblog.net/noticias/cofundador-da-wikipedia-esta-banido-da-wikipedia/) — Wikipedia banido `tecnoblog`
-
-<img src="arrows.png" width="14"/> [Apple pode mudar estratégia e pular chips M6 Pro e Max](https://tecnoblog.net/noticias/apple-pode-mudar-estrategia-e-pular-chips-m6-pro-e-max/) — Apple muda `tecnoblog`
-
-<img src="arrows.png" width="14"/> [Função escondida do Google Fotos impede estourar seus 15 GB de armazenamento](<![CDATA[https://canaltech.com.br/apps/funcao-escondida-do-google-fotos-impede-estourar-seus-15-gb-de-armazenamento/]]>) — Google Fotos `canaltech`
-
-<img src="arrows.png" width="14"/> [iPhone 18 Pro e iPhone Ultra já têm data de lançamento agendada, diz Gurman](<![CDATA[https://canaltech.com.br/smartphone/iphone-18-pro-e-iphone-ultra-ja-tem-data-de-lancamento-agendada-diz-gurman/]]>) — iPhone novo `canaltech`
-
-<img src="arrows.png" width="14"/> [DJI lança microfones minúsculos que pesam só 12 g, mas têm 14 GB de memória](<![CDATA[https://canaltech.com.br/produtos/dji-lanca-microfones-minusculos-que-pesam-so-12-g-mas-tem-14-gb-de-memoria/]]>) — microfones novos `canaltech`
-
-<img src="arrows.png" width="14"/> [Após taxa variável, apps de transporte testam modelo com pagamento antecipado](<![CDATA[https://canaltech.com.br/colunas/apos-taxa-variavel-apps-de-transporte-testam-modelo-com-pagamento-antecipado/]]>) — apps mudam `canaltech`
+<img src="arrows.png" width="14"/> [Novo recurso do Gemini quer mudar jeito que você baixa apps no celular](<![CDATA[https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-quer-mudar-jeito-que-voce-baixa-apps-no-celular/]]>) — IA no celular `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> O tema mais quente do dia é o avanço da IA, com a OpenAI revelando a prévia do GPT 5.6 e a liberação da IA perigosa do Claude. Isso mostra que a IA está cada vez mais avançada e pode mudar a forma como vivemos e trabalhamos.
+> <img src="arrows.png" width="14"/> A guerra de dobráveis entre iPhone e Galaxy Z Fold 8 promete ser um dos principais temas do ano, com implicações significativas para o mercado de smartphones. Além disso, a possível inflação de preços da RAM por fabricantes como Samsung, SK Hynix e Micron pode afetar a indústria de tecnologia como um todo.
 
 <br/>
 
