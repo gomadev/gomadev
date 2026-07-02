@@ -10,25 +10,23 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Novo sistema usará IA para "traduzir" o que o seu corpo realmente precisa](<![CDATA[https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/]]>) — IA ajuda saúde `canaltech`
+<img src="arrows.png" width="14"/> [Microsoft deve cortar milhares de empregos em nova onda de demissões](https://tecnoblog.net/noticias/microsoft-deve-cortar-milhares-de-empregos-em-nova-onda-de-demissoes/) — Cortes de empregos `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Flash usa IA para deixar inscrições em vagas de emprego mais rápidas](<![CDATA[https://canaltech.com.br/mercado/flash-usa-ia-para-deixar-inscricoes-em-vagas-de-emprego-mais-rapidas/]]>) — IA agiliza empregos `canaltech`
+<img src="arrows.png" width="14"/> [AI Slop impacta mundo dos games e gera reação](https://tecnoblog.net/noticias/ai-slop-impacta-mundo-dos-games-e-gera-reacao/) — IA no gaming `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela](<![CDATA[https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/]]>) — IA e crime `canaltech`
+<img src="arrows.png" width="14"/> [CNPJ com letras e números começa a valer; veja o que muda](https://tecnoblog.net/noticias/cnpj-com-letras-e-numeros-comeca-a-valer-veja-o-que-muda/) — Mudanças no CNPJ `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Preço das memórias RAM deve subir mais 40%, diz analista](https://tecnoblog.net/noticias/preco-das-memorias-ram-deve-subir-mais-40-diz-analista/) — preços subir `tecnoblog`
+<img src="arrows.png" width="14"/> [Redmi Note 17 chega neste mês com melhorias em bateria, tela e desempenho](<![CDATA[https://canaltech.com.br/smartphone/redmi-note-17-chega-neste-mes-com-melhorias-em-bateria-tela-e-desempenho/]]>) — Melhorias em smartphones `canaltech`
 
-<img src="arrows.png" width="14"/> [Homem preso após conversa com IA: o que realmente aconteceu](<![CDATA[https://canaltech.com.br/podcast/podcast-canaltech/homem-preso-apos-conversa-com-ia-o-que-realmente-aconteceu-6591/]]>) — IA e lei `canaltech`
+<img src="arrows.png" width="14"/> [Carros da Tesla chegam à América do Sul e marca "flerta" com o Brasil](<![CDATA[https://canaltech.com.br/carros/carros-da-tesla-chegam-a-america-do-sul-e-marca-flerta-com-o-brasil/]]>) — Carros elétricos `canaltech`
 
-<img src="arrows.png" width="14"/> [Google adverte sobre risco maior de cibercrimes após mudanças na UE](https://tecnoblog.net/noticias/google-adverte-sobre-risco-maior-de-cibercrimes-apos-mudancas-na-ue/) — cibercrime aumenta `tecnoblog`
+<img src="arrows.png" width="14"/> [Quando os nomes de usuário serão liberados no WhatsApp?](<![CDATA[https://canaltech.com.br/apps/quando-os-nomes-de-usuario-serao-liberados-no-whatsapp/]]>) — Atualizações no WhatsApp `canaltech`
 
-<img src="arrows.png" width="14"/> [Samsung revela pistas do Galaxy Z Fold 8 em teasers oficiais; confira](<![CDATA[https://canaltech.com.br/smartphone/samsung-revela-pistas-do-galaxy-z-fold-8-em-teasers-oficiais-confira/]]>) — novo Galaxy `canaltech`
-
-<img src="arrows.png" width="14"/> [iPhone 18 Pro: vazamentos revelam chip A20 Pro, modem C2 e câmera aprimorada](<![CDATA[https://canaltech.com.br/smartphone/iphone-18-pro-vazamentos-revelam-chip-a20-pro-modem-c2-e-camera-aprimorada/]]>) — iPhone novo `canaltech`
+<img src="arrows.png" width="14"/> [Cinder City exige quantidade absurda de memória RAM no PC; confira requisitos](<![CDATA[https://canaltech.com.br/games/cinder-city-exige-quantidade-absurda-de-memoria-ram-no-pc-confira-requisitos/]]>) — Requisitos de jogos `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A IA está transformando a forma como vivemos e trabalhamos, com aplicações em saúde, empregos e segurança. O uso de IA em dispositivos móveis e sistemas de inteligência artificial está se tornando cada vez mais comum e importante para o desenvolvimento de tecnologias inovadoras.
+> <img src="arrows.png" width="14"/> A Microsoft está prestes a cortar milhares de empregos em uma nova onda de demissões, o que pode ter um impacto significativo no mercado de trabalho tecnológico. Além disso, a IA está revolucionando o mundo dos games, com a AI Slop gerando reações fortes na comunidade de jogadores.
 
 <br/>
 
