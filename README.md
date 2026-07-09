@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens](https://tecnoblog.net/noticias/meta-ai-whatsapp-e-instagram-ganham-novo-modelo-de-ia-para-gerar-imagens/) — IA avança `tecnoblog`
+<img src="arrows.png" width="14"/> [OpenAI vai liberar GPT-5.6 após governo Trump remover restrições](https://tecnoblog.net/noticias/openai-vai-liberar-gpt-5-6-apos-governo-trump-remover-restricoes/) — avanço IA `tecnoblog`
 
-<img src="arrows.png" width="14"/> [China também quer restringir o uso de suas IAs no exterior](https://tecnoblog.net/noticias/china-tambem-quer-restringir-o-uso-de-suas-ias-no-exterior/) — Restrições IA `tecnoblog`
+<img src="arrows.png" width="14"/> [IA do Instagram poderá usar seu perfil para gerar imagens; veja como bloquear](https://tecnoblog.net/noticias/ia-do-instagram-podera-usar-seu-perfil-para-gerar-imagens-veja-como-bloquear/) — privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Claude "pensa sozinho"? Estudo da Anthropic divide especialistas](<![CDATA[https://canaltech.com.br/inteligencia-artificial/claude-pensa-sozinho-estudo-da-anthropic-divide-especialistas/]]>) — IA pensa `canaltech`
+<img src="arrows.png" width="14"/> [DuckDuckGo agora remove anúncios do YouTube](https://tecnoblog.net/noticias/duckduckgo-agora-remove-anuncios-do-youtube/) — busca sem anúncios `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Já tem data: Samsung anuncia evento em que deve apresentar os próximos dobráveis](<![CDATA[https://canaltech.com.br/smartphone/ja-tem-data-samsung-anuncia-evento-em-que-deve-apresentar-os-proximos-dobraveis/]]>) — Dobráveis chegam `canaltech`
+<img src="arrows.png" width="14"/> [IA virou requisito? Entenda o que as empresas buscam nos profissionais](<![CDATA[https://canaltech.com.br/podcast/podcast-canaltech/ia-virou-requisito-entenda-o-que-as-empresas-buscam-nos-profissionais-6605/]]>) — IA em demanda `canaltech`
 
-<img src="arrows.png" width="14"/> [LG quer desbancar Samsung e virar parceira da Apple no iPhone dobrável](<![CDATA[https://canaltech.com.br/smartphone/lg-quer-desbancar-samsung-e-virar-parceira-da-apple-no-iphone-dobravel/]]>) — Parceria Apple `canaltech`
+<img src="arrows.png" width="14"/> [Smartwatch bom e barato: qual modelo comprar em 2026?](https://tecnoblog.net/guias/smartwatch-bom-e-barato/) — tecnologia acessível `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Samsung marca Unpacked em 22 de julho; Fold Wide é esperado](https://tecnoblog.net/noticias/samsung-marca-unpacked-em-22-de-julho-fold-wide-e-esperado/) — Evento Samsung `tecnoblog`
+<img src="arrows.png" width="14"/> [Samsung corrige atraso e libera atualização do Google Play para celulares Galaxy](<![CDATA[https://canaltech.com.br/apps/samsung-corrige-atraso-e-libera-atualizacao-do-google-play-para-celulares-galaxy/]]>) — atualização importante `canaltech`
 
-<img src="arrows.png" width="14"/> [X ganha editor de vídeos para competir com TikTok e Instagram](https://tecnoblog.net/noticias/x-ganha-editor-de-videos-para-competir-com-tiktok-e-instagram/) — Editor de vídeos `tecnoblog`
+<img src="arrows.png" width="14"/> [Fim do uBlock Origin clássico para Chrome já tem data marcada](https://tecnoblog.net/noticias/fim-do-ublock-origin-classico-para-chrome-ja-tem-data-marcada/) — fim de suporte `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Motorola Edge 70 Fusion despenca de preço e baixa 45% no 7.7 Prime Day](https://tecnoblog.net/achados/motorola-edge-70-fusion-despenca-de-preco-e-baixa-39-no-7-7-prime-day/) — Desconto Motorola `tecnoblog`
+<img src="arrows.png" width="14"/> [Google Fotos ganha nova função que transforma vídeos com IA](https://tecnoblog.net/noticias/google-fotos-ganha-nova-funcao-que-transforma-videos-com-ia/) — edição de vídeos `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A inteligência artificial está cada vez mais presente em nossas vidas, com avanços significativos em áreas como processamento de linguagem natural e geração de imagens. A Samsung também está se preparando para lançar seus próximos smartphones dobráveis, o que pode revolucionar o mercado de dispositivos móveis.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está se tornando cada vez mais importante no mercado de trabalho, com empresas buscando profissionais com habilidades em IA e Machine Learning. Além disso, o lançamento do GPT-5.6 pela OpenAI promete revolucionar a forma como lidamos com a linguagem e a informação.
 
 <br/>
 
