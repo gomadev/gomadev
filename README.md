@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [OpenAI lança ChatGPT Work, assistente de IA para o trabalho](https://tecnoblog.net/noticias/openai-lanca-chatgpt-work-assistente-de-ia-para-o-trabalho/) — IA no trabalho `tecnoblog`
+<img src="arrows.png" width="14"/> [Samsung Health vai usar seus dados para treinar IA](https://tecnoblog.net/noticias/samsung-health-vai-usar-seus-dados-para-treinamento-de-ia/) — IA em saúde `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Microsoft vai usar IA para sair na frente dos hackers no Windows](https://tecnoblog.net/noticias/microsoft-vai-usar-ia-para-sair-na-frente-dos-hackers-no-windows/) — Segurança Windows `tecnoblog`
+<img src="arrows.png" width="14"/> [IA não deveria aparecer para quem não gosta, diz chefe do Instagram](https://tecnoblog.net/noticias/ia-nao-deveria-aparecer-para-quem-nao-gosta-diz-chefe-do-instagram/) — IA em redes `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Meta pode lançar óculos com IA que gravam tudo o tempo todo](https://tecnoblog.net/noticias/meta-pode-lancar-oculos-com-ia-que-gravam-tudo-o-tempo-todo/) — Óculos IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Detector de IA da Meta falha ao identificar imagens do próprio modelo de IA](<![CDATA[https://canaltech.com.br/inteligencia-artificial/detector-de-ia-da-meta-falha-ao-identificar-imagens-do-proprio-modelo-de-ia/]]>) — IA falha `canaltech`
 
-<img src="arrows.png" width="14"/> [O que é Gemini Spark? Conheça o agente de IA pessoal do Google](<![CDATA[https://canaltech.com.br/inteligencia-artificial/o-que-e-gemini-spark-conheca-o-agente-de-ia-pessoal-do-google/]]>) — IA pessoal `canaltech`
+<img src="arrows.png" width="14"/> [SK Hynix quebra recorde e tem estreia bilionária na Nasdaq](https://tecnoblog.net/noticias/sk-hynix-quebra-recorde-e-tem-estreia-bilionaria-na-nasdaq/) — Mercado em alta `tecnoblog`
 
-<img src="arrows.png" width="14"/> [O golpe que não precisa da sua senha: entenda o Device Code Phishing](<![CDATA[https://canaltech.com.br/podcast/podcast-canaltech/o-golpe-que-nao-precisa-da-sua-senha-entenda-o-device-code-phishing-6607/]]>) — Golpe cibernético `canaltech`
+<img src="arrows.png" width="14"/> [A briga que quase derrubou uma distribuição Linux](https://tecnoblog.net/noticias/a-briga-no-openmandriva-linux-que-quase-derrubou-a-distribuicao/) — Linux em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Netflix pensa em exibir TV ao vivo e criar pacotes com outros streamings](https://tecnoblog.net/noticias/netflix-pensa-em-exibir-tv-ao-vivo-e-criar-pacotes-com-outros-streamings/) — TV ao vivo `tecnoblog`
+<img src="arrows.png" width="14"/> [Projeto de lei no Brasil quer impedir que empresas &#8220;matem&#8221; games](https://tecnoblog.net/noticias/projeto-de-lei-no-brasil-quer-impedir-que-empresas-matem-games/) — Lei de games `tecnoblog`
 
-<img src="arrows.png" width="14"/> [WhatsApp pode ganhar notificações de aniversários de contatos](https://tecnoblog.net/noticias/whatsapp-pode-ganhar-notificacoes-de-aniversarios-de-contatos/) — Aniversários WhatsApp `tecnoblog`
+<img src="arrows.png" width="14"/> [O que é APK? Entenda o funcionamento e riscos desse formato de arquivo](https://tecnoblog.net/responde/o-que-e-apk/) — Segurança APK `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Pneu murcho faz o carro elétrico gastar mais bateria?](<![CDATA[https://canaltech.com.br/carros/pneu-murcho-faz-o-carro-eletrico-gastar-mais-bateria/]]>) — Carro elétrico `canaltech`
+<img src="arrows.png" width="14"/> [XBOX pode trocar discos físicos por mídia digital em breve](<![CDATA[https://canaltech.com.br/games/xbox-pode-trocar-discos-fisicos-por-midia-digital-em-breve/]]>) — XBOX digital `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A utilização de inteligência artificial no trabalho é um tema cada vez mais relevante, com a OpenAI lançando o ChatGPT Work para auxiliar profissionais. Além disso, a Microsoft está utilizando IA para melhorar a segurança do Windows, protegendo contra hackers e ameaças cibernéticas.
+> <img src="arrows.png" width="14"/> A inteligência artificial está transformando a forma como vivemos e trabalhamos, com aplicações em saúde, redes sociais e mercados. A notícia do Samsung Health usando dados para treinar IA é um exemplo disso, mostrando como a tecnologia pode melhorar a vida das pessoas, mas também levantando questões sobre privacidade e segurança.
 
 <br/>
 
