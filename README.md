@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Waze ganha navegação para motos e busca por voz com Gemini](https://tecnoblog.net/noticias/waze-ganha-navegacao-para-motos-e-busca-por-voz-com-gemini/) — melhora navegação `tecnoblog`
+<img src="arrows.png" width="14"/> [41% dos artigos do LinkedIn são gerados por IA, aponta levantamento](https://tecnoblog.net/noticias/41-dos-artigos-do-linkedin-sao-gerados-por-ia-aponta-levantamento/) — IA gera conteúdo `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Empresa quer espalhar servidores de IA pelas casas dos usuários](https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/) — avança IA `tecnoblog`
+<img src="arrows.png" width="14"/> [OpenAI "sacrifica" GPT-5.6 para conter avanço do rival Claude; veja o que muda](https://canaltech.com.br/inteligencia-artificial/open-ai-sacrifica-gpt-5-6-para-conter-avanco-do-rival-claude-veja-o-que-muda/) — GPT-5.6 sacrificado `canaltech`
 
-<img src="arrows.png" width="14"/> [Projeto de lei no Brasil quer impedir que empresas &#8220;matem&#8221; games](https://tecnoblog.net/noticias/projeto-de-lei-no-brasil-quer-impedir-que-empresas-matem-games/) — protege jogos `tecnoblog`
+<img src="arrows.png" width="14"/> [AMD prepara gerador de múltiplos quadros de até 8x para o FSR 4](https://canaltech.com.br/hardware/amd-prepara-gerador-de-multiplos-quadros-de-ate-8x-para-o-fsr-4/) — FSR 4 melhorado `canaltech`
 
-<img src="arrows.png" width="14"/> [Samsung Health vai usar seus dados para treinar IA](https://tecnoblog.net/noticias/samsung-health-vai-usar-seus-dados-para-treinamento-de-ia/) — usa dados `tecnoblog`
+<img src="arrows.png" width="14"/> [Elon Musk e criador do ChatGPT trocam farpas no X; veja motivo da briga](https://canaltech.com.br/mercado/elon-musk-e-criador-do-chat-gpt-trocam-farpas-no-x-veja-motivo-da-briga/) — ChatGPT rivaliza `canaltech`
 
-<img src="arrows.png" width="14"/> [Após polêmica, Instagram cancela IA que acessava as fotos dos usuários](https://tecnoblog.net/noticias/apos-polemica-instagram-desativa-ia-que-acessava-fotos-de-usuarios/) — privacidade usuário `tecnoblog`
+<img src="arrows.png" width="14"/> [Como a tecnologia e a IA tornam a educação mais inclusiva e individualizada?](https://canaltech.com.br/inteligencia-artificial/como-a-tecnologia-e-a-ia-tornam-a-educacao-mais-inclusiva-e-individualizada/) — Educação inclusiva `canaltech`
 
-<img src="arrows.png" width="14"/> [Dobrável da Samsung vai ser bem mais leve que o antecessor, diz novo vazamento](https://canaltech.com.br/smartphone/dobravel-da-samsung-vai-ser-bem-mais-leve-que-o-antecessor-diz-novo-vazamento/) — inova design `canaltech`
+<img src="arrows.png" width="14"/> [Google libera recurso para pesquisar histórico de conversas com IA no celular](https://canaltech.com.br/inteligencia-artificial/google-libera-recurso-para-pesquisar-historico-de-conversas-com-ia-no-celular/) — Conversas com IA `canaltech`
 
-<img src="arrows.png" width="14"/> [Novo celular top da Motorola aparece em vídeo e tem todos os detalhes vazados](https://canaltech.com.br/smartphone/novo-celular-top-da-motorola-aparece-em-video-e-tem-todos-os-detalhes-vazados/) — avança câmeras `canaltech`
+<img src="arrows.png" width="14"/> [Crise dos chips leva mercado de celulares ao pior nível em 13 anos](https://tecnoblog.net/noticias/crise-dos-chips-leva-mercado-de-celulares-ao-pior-nivel-em-13-anos/) — Crise dos chips `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Waze vai falar menos nas viagens e enfim ganha modo para motos](https://canaltech.com.br/apps/waze-vai-falar-menos-nas-viagens-e-enfim-ganha-modo-para-motos/) — melhora viagens `canaltech`
+<img src="arrows.png" width="14"/> [Como ver uma prévia de um story no Instagram sem ser visto](https://tecnoblog.net/responde/como-ver-uma-previa-de-um-story-no-instagram-sem-ser-visto/) — Privacidade online `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A inteligência artificial está cada vez mais presente em nossa vida diária, com aplicativos como o Waze melhorando a navegação para motociclistas e empresas investindo em servidores de IA para melhorar a experiência do usuário. Além disso, a Samsung está usando dados de saúde para treinar IA e melhorar a vida das pessoas.
+> <img src="arrows.png" width="14"/> A crise dos chips está afetando o mercado de celulares, com o pior nível em 13 anos. A IA está sendo cada vez mais utilizada para gerar conteúdo e melhorar a educação, mas também está criando rivalidades entre as empresas de tecnologia.
 
 <br/>
 
