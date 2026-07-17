@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [OpenAI pode lançar caixa de som que conversa e parece &#8220;viva&#8221;](https://tecnoblog.net/noticias/openai-pode-lancar-caixa-de-som-que-conversa-e-parece-viva/) — IA avançada `tecnoblog`
+<img src="arrows.png" width="14"/> [Teclado da OpenAI para programadores esgota em 24 horas](https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/) — Programação mais fácil `tecnoblog`
 
-<img src="arrows.png" width="14"/> [“Não previmos” o impacto da IA, admite CEO da IBM](https://tecnoblog.net/noticias/nao-previmos-diz-ceo-da-ibm-sobre-impacto-da-ia/) — Impacto IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Pequenas e médias empresas veem PCs com IA como arma contra grandes rivais](https://canaltech.com.br/notebook/pequenas-empresas-veem-pcs-com-ia-como-arma-contra-grandes-rivais-revela-estudo/) — Empresas usam IA `canaltech`
 
-<img src="arrows.png" width="14"/> [Nova IA brasileira tem “visão inteligente” e prevê acidentes nas estradas](https://canaltech.com.br/carros/nova-ia-brasileira-tem-visao-inteligente-e-preve-acidentes-nas-estradas/) — IA prediz acidentes `canaltech`
+<img src="arrows.png" width="14"/> [X começa a punir perfis que copiam posts virais](https://tecnoblog.net/noticias/x-comeca-a-punir-perfis-que-copiam-posts-virais/) — Redes sociais mudam `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Pânico de privacidade: ChatGPT no Mac exibe pastas do usuário sem permissão](https://canaltech.com.br/inteligencia-artificial/panico-de-privacidade-chat-gpt-no-mac-exibe-pastas-do-usuario-sem-permissao/) — Privacidade em risco `canaltech`
+<img src="arrows.png" width="14"/> [Galaxy Watch Ultra chega a cair 65% em oferta com anúncio próximo do Ultra 2](https://tecnoblog.net/achados/galaxy-watch-ultra-chega-a-cair-65-em-oferta-com-anuncio-proximo-do-ultra-2/) — Preços caem muito `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Claude muda personalidade conforme o idioma, diz Anthropic](https://tecnoblog.net/noticias/claude-muda-personalidade-conforme-o-idioma-diz-anthropic/) — IA personalizada `tecnoblog`
+<img src="arrows.png" width="14"/> [Garmin Forerunner 265 com GPS fica 43% mais barato no Mercado Livre](https://tecnoblog.net/achados/garmin-forerunner-265-com-gps-fica-43-mais-barato-no-mercado-livre/) — Esportes mais baratos `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Linux no Mega Drive? Dev faz sistema rodar no Sega 32X com só 256 KB de RAM](https://canaltech.com.br/hardware/linux-no-mega-drive-dev-faz-sistema-rodar-no-sega-32-x-com-so-256-kb-de-ram/) — Linux em consoles `canaltech`
+<img src="arrows.png" width="14"/> [Por que fazer upgrade de RAM na Steam Machine é um pesadelo?](https://canaltech.com.br/hardware/por-que-fazer-upgrade-de-ram-na-steam-machine-e-um-pesadelo/) — Upgrade é complicado `canaltech`
 
-<img src="arrows.png" width="14"/> [RTX Spark suportará "jogos lendários" da SEGA, afirma NVIDIA](https://canaltech.com.br/hardware/rtx-spark-suportara-jogos-lendarios-da-sega-afirma-nvidia/) — Jogos lendários `canaltech`
+<img src="arrows.png" width="14"/> [YouTube Music testa novo visual de tela cheia para bater de frente com rivais](https://canaltech.com.br/apps/you-tube-music-testa-novo-visual-de-tela-cheia-para-bater-de-frente-com-rivais/) — Música mais interativa `canaltech`
 
-<img src="arrows.png" width="14"/> [Spotify começa a liberar controle parental para usuários gratuitos](https://tecnoblog.net/noticias/spotify-comeca-a-liberar-controle-parental-para-usuarios-gratuitos/) — Controle parental `tecnoblog`
+<img src="arrows.png" width="14"/> [Efeito dominó: demissões no XBOX são piores do que imaginávamos](https://canaltech.com.br/games/efeito-domino-demissoes-no-xbox-sao-piores-do-que-imaginavamos/) — Demissões afetam jogos `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A IA continua avançando e revolucionando diversas áreas, desde a previsão de acidentes nas estradas até a personalização de experiências de usuário. O destaque do dia é a capacidade da IA de aprender e se adaptar a diferentes contextos e idiomas, tornando-a uma ferramenta cada vez mais poderosa e versátil.
+> <img src="arrows.png" width="14"/> O tema mais quente do dia é a IA e seu impacto nas empresas e na vida das pessoas. A IA está sendo utilizada para melhorar a eficiência e a produtividade em diversas áreas, desde a programação até a gestão de negócios.
 
 <br/>
 
