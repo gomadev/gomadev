@@ -10,25 +10,17 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Teclado da OpenAI para programadores esgota em 24 horas](https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/) — Programação mais fácil `tecnoblog`
+<img src="arrows.png" width="14"/> [Evoto AI usa IA para agilizar edição profissional de imagens](https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/) — Edição de imagens `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Pequenas e médias empresas veem PCs com IA como arma contra grandes rivais](https://canaltech.com.br/notebook/pequenas-empresas-veem-pcs-com-ia-como-arma-contra-grandes-rivais-revela-estudo/) — Empresas usam IA `canaltech`
+<img src="arrows.png" width="14"/> [Apple e Google são acusadas de lucrar com apps que criam nudes falsos](https://tecnoblog.net/noticias/apple-e-google-viram-alvo-por-apps-de-ia-que-criam-nudes-falsos/) — Privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [X começa a punir perfis que copiam posts virais](https://tecnoblog.net/noticias/x-comeca-a-punir-perfis-que-copiam-posts-virais/) — Redes sociais mudam `tecnoblog`
+<img src="arrows.png" width="14"/> [Google é forçado a compartilhar dados com rivais de IA; entenda o motivo](https://canaltech.com.br/mercado/google-e-forcado-a-compartilhar-dados-com-rivais-de-ia-entenda-o-motivo/) — Compartilhamento de dados `canaltech`
 
-<img src="arrows.png" width="14"/> [Galaxy Watch Ultra chega a cair 65% em oferta com anúncio próximo do Ultra 2](https://tecnoblog.net/achados/galaxy-watch-ultra-chega-a-cair-65-em-oferta-com-anuncio-proximo-do-ultra-2/) — Preços caem muito `tecnoblog`
-
-<img src="arrows.png" width="14"/> [Garmin Forerunner 265 com GPS fica 43% mais barato no Mercado Livre](https://tecnoblog.net/achados/garmin-forerunner-265-com-gps-fica-43-mais-barato-no-mercado-livre/) — Esportes mais baratos `tecnoblog`
-
-<img src="arrows.png" width="14"/> [Por que fazer upgrade de RAM na Steam Machine é um pesadelo?](https://canaltech.com.br/hardware/por-que-fazer-upgrade-de-ram-na-steam-machine-e-um-pesadelo/) — Upgrade é complicado `canaltech`
-
-<img src="arrows.png" width="14"/> [YouTube Music testa novo visual de tela cheia para bater de frente com rivais](https://canaltech.com.br/apps/you-tube-music-testa-novo-visual-de-tela-cheia-para-bater-de-frente-com-rivais/) — Música mais interativa `canaltech`
-
-<img src="arrows.png" width="14"/> [Efeito dominó: demissões no XBOX são piores do que imaginávamos](https://canaltech.com.br/games/efeito-domino-demissoes-no-xbox-sao-piores-do-que-imaginavamos/) — Demissões afetam jogos `canaltech`
+<img src="arrows.png" width="14"/> [OpenAI lança versão do ChatGPT especialista em hackear sistemas](https://canaltech.com.br/inteligencia-artificial/open-ai-lanca-versao-do-chat-gpt-especialista-em-hackear-sistemas/) — Segurança cibernética `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> O tema mais quente do dia é a IA e seu impacto nas empresas e na vida das pessoas. A IA está sendo utilizada para melhorar a eficiência e a produtividade em diversas áreas, desde a programação até a gestão de negócios.
+> <img src="arrows.png" width="14"/> A inteligência artificial está cada vez mais presente em nosso dia a dia, com aplicações em edição de imagens e processamento de linguagem natural. No entanto, também traz desafios como a privacidade e a segurança cibernética, que precisam ser abordados com seriedade para garantir o uso responsável dessa tecnologia.
 
 <br/>
 
