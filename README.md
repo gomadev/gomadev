@@ -14,13 +14,11 @@
 
 <img src="arrows.png" width="14"/> [Apple e Google são acusadas de lucrar com apps que criam nudes falsos](https://tecnoblog.net/noticias/apple-e-google-viram-alvo-por-apps-de-ia-que-criam-nudes-falsos/) — Privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Google é forçado a compartilhar dados com rivais de IA; entenda o motivo](https://canaltech.com.br/mercado/google-e-forcado-a-compartilhar-dados-com-rivais-de-ia-entenda-o-motivo/) — Compartilhamento de dados `canaltech`
-
-<img src="arrows.png" width="14"/> [OpenAI lança versão do ChatGPT especialista em hackear sistemas](https://canaltech.com.br/inteligencia-artificial/open-ai-lanca-versao-do-chat-gpt-especialista-em-hackear-sistemas/) — Segurança cibernética `canaltech`
+<img src="arrows.png" width="14"/> [Como usar IA para acabar com o doomscrolling e "curar" vício digital](https://canaltech.com.br/inteligencia-artificial/curar-doomscrolling-vicio-digital-com-ajuda-da-ia/) — Vício digital `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A inteligência artificial está cada vez mais presente em nosso dia a dia, com aplicações em edição de imagens e processamento de linguagem natural. No entanto, também traz desafios como a privacidade e a segurança cibernética, que precisam ser abordados com seriedade para garantir o uso responsável dessa tecnologia.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está cada vez mais presente em nossas vidas, seja através da edição de imagens ou da criação de conteúdo falso. No entanto, é fundamental discutir os riscos e consequências do uso indevido da IA, como a violação de privacidade e a disseminação de informações falsas.
 
 <br/>
 
