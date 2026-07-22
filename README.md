@@ -10,23 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Nubank compra banco e usará licença para não precisar mudar de nome](https://tecnoblog.net/noticias/nubank-compra-banco-e-usara-licenca-para-nao-precisar-mudar-de-nome/) — mudanças financeiras `tecnoblog`
+<img src="arrows.png" width="14"/> [Google lança IA para cibersegurança e quer rivalizar com Claude Mythos](https://tecnoblog.net/noticias/google-lanca-ia-para-ciberseguranca-e-quer-rivalizar-com-claude-mythos/) — Avanços em cibersegurança `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Vibe coding faz ritmo de lançamentos na App Store dobrar](https://tecnoblog.net/noticias/vibe-coding-faz-ritmo-de-lancamentos-na-app-store-dobrar/) — desenvolvimento rápido `tecnoblog`
+<img src="arrows.png" width="14"/> [Google Maps ganha super-IA que vai planejar e personalizar suas viagens](https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-super-ia-que-vai-planejar-e-personalizar-suas-viagens/) — IA em mapas `canaltech`
 
-<img src="arrows.png" width="14"/> [Justiça dos EUA paralisa compra da Warner pela Paramount](https://tecnoblog.net/noticias/justica-dos-eua-paralisa-compra-da-warner-pela-paramount/) — justiça interfere `tecnoblog`
+<img src="arrows.png" width="14"/> [Você confia? 1Password libera IA para acessar senhas e fazer login automático](https://canaltech.com.br/inteligencia-artificial/voce-confia-1-password-libera-ia-para-acessar-senhas-e-fazer-login-automatico/) — IA em segurança `canaltech`
 
-<img src="arrows.png" width="14"/> [Nubank compra banco para não ter que mudar de nome](https://canaltech.com.br/mercado/nubank-compra-banco-para-nao-ter-que-mudar-de-nome/) — mudanças financeiras `canaltech`
+<img src="arrows.png" width="14"/> [Positivo lança solução para acelerar inteligência artificial local no Brasil](https://canaltech.com.br/hardware/positivo-lanca-solucao-para-acelerar-inteligencia-artificial-local-no-brasil/) — IA local acelerada `canaltech`
 
-<img src="arrows.png" width="14"/> [Recurso "escondido" no iPhone traduz mensagens de texto em tempo real](https://canaltech.com.br/apps/recurso-escondido-no-i-phone-traduz-mensagens-de-texto-em-tempo-real/) — tecnologia útil `canaltech`
+<img src="arrows.png" width="14"/> [Aposta no silício: Google quer integrar o Gemini diretamente no hardware](https://canaltech.com.br/hardware/aposta-no-silicio-google-quer-integrar-ia-gemini-diretamente-no-hardware/) — IA em hardware `canaltech`
 
-<img src="arrows.png" width="14"/> [Fusão Paramount-Warner é suspensa por decisão judicial nos EUA](https://canaltech.com.br/mercado/fusao-paramount-warner-e-suspensa-por-decisao-judicial-nos-eua/) — justiça interfere `canaltech`
+<img src="arrows.png" width="14"/> [Apple deve anunciar &#8220;assinatura&#8221; de iPhones, Macs e iPads](https://tecnoblog.net/noticias/apple-deve-anunciar-assinatura-de-iphones-macs-e-ipads/) — Assinatura de Apple `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Nova IA do Chrome vai ler e organizar abas do navegador para você](https://canaltech.com.br/inteligencia-artificial/nova-ia-do-chrome-vai-ler-e-organizar-abas-do-navegador-para-voce/) — IA inovadora `canaltech`
+<img src="arrows.png" width="14"/> [iPhones ficaram tão caros que Apple vai alugar celulares, diz Bloomberg](https://canaltech.com.br/smartphone/i-phones-ficaram-tao-caros-que-apple-vai-alugar-celulares-diz-bloomberg/) — Aluguel de iPhones `canaltech`
+
+<img src="arrows.png" width="14"/> [Meta prepara chegada de novos óculos inteligentes ao Brasil](https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/) — Óculos inteligentes `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A compra do Nubank e a fusão Paramount-Warner mostram como a tecnologia está mudando os setores financeiro e de entretenimento. A IA está sendo cada vez mais utilizada para melhorar a eficiência e a experiência do usuário, como visto no recurso de tradução de mensagens de texto em tempo real do iPhone e na nova IA do Chrome que organiza abas do navegador.
+> <img src="arrows.png" width="14"/> A inteligência artificial está se tornando cada vez mais presente em nossas vidas, com avanços em cibersegurança e integração em dispositivos. A Meta prepara a chegada de novos óculos inteligentes ao Brasil, enquanto a Apple considera uma assinatura para seus dispositivos, mostrando um futuro onde a tecnologia está cada vez mais integrada à nossa rotina diária.
 
 <br/>
 
