@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Google lança IA para cibersegurança e quer rivalizar com Claude Mythos](https://tecnoblog.net/noticias/google-lanca-ia-para-ciberseguranca-e-quer-rivalizar-com-claude-mythos/) — Avanços em cibersegurança `tecnoblog`
+<img src="arrows.png" width="14"/> [Amazon faz cortes em setor responsável por desenvolvimento da IA](https://tecnoblog.net/noticias/amazon-faz-cortes-em-setor-responsavel-por-desenvolvimento-da-ia/) — IA em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Google Maps ganha super-IA que vai planejar e personalizar suas viagens](https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-super-ia-que-vai-planejar-e-personalizar-suas-viagens/) — IA em mapas `canaltech`
+<img src="arrows.png" width="14"/> [Migrar do iPhone para o Android ficou muito melhor (mas só na versão 17)](https://tecnoblog.net/noticias/migrar-do-iphone-para-o-android-ficou-muito-melhor-mas-so-na-versao-17/) — Mudança fácil `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Você confia? 1Password libera IA para acessar senhas e fazer login automático](https://canaltech.com.br/inteligencia-artificial/voce-confia-1-password-libera-ia-para-acessar-senhas-e-fazer-login-automatico/) — IA em segurança `canaltech`
+<img src="arrows.png" width="14"/> [AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA](https://tecnoblog.net/noticias/amd-fecha-acordo-bilionario-com-a-anthropic-para-fornecer-gpus-de-ia/) — Parceria bilionária `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Positivo lança solução para acelerar inteligência artificial local no Brasil](https://canaltech.com.br/hardware/positivo-lanca-solucao-para-acelerar-inteligencia-artificial-local-no-brasil/) — IA local acelerada `canaltech`
+<img src="arrows.png" width="14"/> [Xbox anuncia retrocompatibilidade do console original para PCs e portáteis](https://tecnoblog.net/noticias/xbox-anuncia-retrocompatibilidade-do-console-original-para-pcs-e-portateis/) — Jogos clássicos `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Aposta no silício: Google quer integrar o Gemini diretamente no hardware](https://canaltech.com.br/hardware/aposta-no-silicio-google-quer-integrar-ia-gemini-diretamente-no-hardware/) — IA em hardware `canaltech`
+<img src="arrows.png" width="14"/> [Jogos do primeiro XBOX chegam ao PC com suporte ao Game Pass](https://canaltech.com.br/games/jogos-do-primeiro-xbox-chegam-ao-pc-com-suporte-ao-game-pass/) — Jogos retro `canaltech`
 
-<img src="arrows.png" width="14"/> [Apple deve anunciar &#8220;assinatura&#8221; de iPhones, Macs e iPads](https://tecnoblog.net/noticias/apple-deve-anunciar-assinatura-de-iphones-macs-e-ipads/) — Assinatura de Apple `tecnoblog`
+<img src="arrows.png" width="14"/> [Ministério Público processa World ID por coleta de íris de brasileiros](https://tecnoblog.net/noticias/ministerio-publico-processa-world-id-por-coleta-de-iris-de-brasileiros/) — Privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [iPhones ficaram tão caros que Apple vai alugar celulares, diz Bloomberg](https://canaltech.com.br/smartphone/i-phones-ficaram-tao-caros-que-apple-vai-alugar-celulares-diz-bloomberg/) — Aluguel de iPhones `canaltech`
+<img src="arrows.png" width="14"/> [Garmin Forerunner 55 sai por quase metade do preço antes do Dia dos Pais](https://tecnoblog.net/achados/garmin-forerunner-55-sai-por-quase-metade-do-preco-antes-do-dia-dos-pais/) — Preço atraente `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Meta prepara chegada de novos óculos inteligentes ao Brasil](https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/) — Óculos inteligentes `tecnoblog`
+<img src="arrows.png" width="14"/> [Fã lança port de Gears of War 2 para PC com multiplayer e 4K](https://canaltech.com.br/games/fa-lanca-port-de-gears-of-war-2-para-pc-com-multiplayer-e-4-k/) — Fãs felizes `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A inteligência artificial está se tornando cada vez mais presente em nossas vidas, com avanços em cibersegurança e integração em dispositivos. A Meta prepara a chegada de novos óculos inteligentes ao Brasil, enquanto a Apple considera uma assinatura para seus dispositivos, mostrando um futuro onde a tecnologia está cada vez mais integrada à nossa rotina diária.
+> <img src="arrows.png" width="14"/> A notícia da Amazon cortar seu setor de IA é um alerta para o setor de tecnologia, pois pode afetar o desenvolvimento de soluções inovadoras. A parceria entre a AMD e a Anthropic para fornecer GPUs de IA é um exemplo de como as empresas estão investindo em tecnologias emergentes para manter a competitividade.
 
 <br/>
 
