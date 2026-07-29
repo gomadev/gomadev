@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Apple deve adiar óculos smart por causa da privacidade](https://tecnoblog.net/noticias/apple-deve-adiar-oculos-smart-por-causa-da-privacidade/) — Privacidade em risco `tecnoblog`
+<img src="arrows.png" width="14"/> [Sirpweb: sistema do governo fica fora do ar e impede registro profissional](https://tecnoblog.net/noticias/sistema-do-governo-federal-fica-fora-do-ar-e-impede-registro-profissional/) — sistema fora do ar `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Microsoft reconhece apps famintos por RAM no Windows 11 e promete solução](https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/) — Otimização de RAM `tecnoblog`
+<img src="arrows.png" width="14"/> [Claude expôs conversas de usuários na busca do Google](https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/) — conversas expostas `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Aliança de IA fica sem os maiores laboratórios dos EUA](https://tecnoblog.net/noticias/alianca-de-ia-fica-sem-os-maiores-laboratorios-dos-eua/) — Aliança de IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Perplexity decreta o fim do trabalho braçal com agente de IA no Windows](https://canaltech.com.br/inteligencia-artificial/perplexity-decreta-o-fim-do-trabalho-bracal-com-agente-de-ia-no-windows/) — fim do trabalho braçal `canaltech`
 
-<img src="arrows.png" width="14"/> [Meta aposta no Threads para não perder usuários para o ChatGPT](https://canaltech.com.br/apps/meta-aposta-no-threads-para-nao-perder-usuarios-para-o-chat-gpt/) — Concorrência de apps `canaltech`
+<img src="arrows.png" width="14"/> [Por que a China está dando de graça suas IAs mais avançadas?](https://canaltech.com.br/inteligencia-artificial/por-que-a-china-esta-dando-de-graca-suas-ias-mais-avancadas/) — IA de graça `canaltech`
 
-<img src="arrows.png" width="14"/> [Vazamento revela bateria do próximo celular premium da Samsung; veja o que mudou](https://canaltech.com.br/smartphone/vazamento-revela-bateria-do-proximo-celular-premium-da-samsung-veja-o-que-mudou/) — Inovação em baterias `canaltech`
+<img src="arrows.png" width="14"/> [TIM não quer &#8220;repetir com a IA o erro do WhatsApp ilimitado&#8221;, diz executivo](https://tecnoblog.net/noticias/tim-nao-quer-repetir-com-a-ia-o-erro-do-whatsapp-ilimitado-diz-executivo/) — IA no WhatsApp `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Steam Frame deve ficar mais caro antes de ser lançado por causa da Qualcomm](https://canaltech.com.br/hardware/steam-frame-deve-ficar-mais-caro-antes-de-ser-lancado-por-causa-da-qualcomm/) — Custo de hardware `canaltech`
+<img src="arrows.png" width="14"/> [Samsung pode lançar nova geração do Galaxy TriFold em 2027](https://tecnoblog.net/noticias/samsung-pode-lancar-nova-geracao-do-galaxy-trifold-em-2027/) — novo Galaxy TriFold `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Android 17 terá aviso assustador para certos tipos de app; entenda o motivo](https://canaltech.com.br/apps/android-17-tera-aviso-assustador-para-certos-tipos-de-app-entenda-o-motivo/) — Segurança de apps `canaltech`
+<img src="arrows.png" width="14"/> [Samsung vai ampliar produção de DRAM para frear chips chineses](https://tecnoblog.net/noticias/samsung-vai-ampliar-producao-de-dram-para-frear-chips-chineses/) — produção de DRAM `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Celular bom e barato com 256 GB: 5 opções para comprar em 2026](https://tecnoblog.net/guias/celular-bom-e-barato-256gb/) — Opções de armazenamento `tecnoblog`
+<img src="arrows.png" width="14"/> [Galaxy S26 FE pode superar o Galaxy S26 em detalhe inesperado](https://canaltech.com.br/smartphone/galaxy-s26-fe-pode-superar-o-galaxy-s26-em-detalhe-inesperado/) — Galaxy S26 FE `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A Microsoft está trabalhando para resolver o problema de aplicativos que consomem muita memória RAM no Windows 11, o que pode melhorar a performance do sistema. Além disso, a aliança de IA está passando por mudanças significativas com a saída dos principais laboratórios dos EUA, o que pode afetar o desenvolvimento de tecnologias de inteligência artificial.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está revolucionando a tecnologia, com a China distribuindo suas IAs mais avançadas de graça, e empresas como a Samsung investindo em produção de DRAM para competir com chips chineses. Isso pode levar a um aumento na eficiência e produtividade, mas também traz preocupações sobre a privacidade e segurança dos dados.
 
 <br/>
 
