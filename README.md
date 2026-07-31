@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [IBM dá novo passo rumo a computadores quânticos mais confiáveis](https://canaltech.com.br/hardware/ibm-da-novo-passo-rumo-a-computadores-quanticos-mais-confiaveis/) — Avanço quântico `canaltech`
+<img src="arrows.png" width="14"/> [OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses](https://tecnoblog.net/noticias/openai-corta-preco-de-ia-recem-lancada-para-rivalizar-com-modelos-chineses/) — IA mais acessível `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Starlink cresce em áreas rurais e já ameaça Claro e Vivo](https://tecnoblog.net/noticias/starlink-cresce-em-areas-rurais-e-ja-ameaca-claro-e-vivo/) — Conectividade rural `tecnoblog`
+<img src="arrows.png" width="14"/> [Google quer atualizar Chrome sem reiniciar navegador (mas é por segurança)](https://tecnoblog.net/noticias/google-quer-atualizar-chrome-sem-reiniciar-navegador-mas-e-por-seguranca/) — Segurança online `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Após testes no Brasil, Google lança sistema de verificação de idade para apps](https://canaltech.com.br/apps/apos-testes-no-brasil-google-lanca-sistema-de-verificacao-de-idade-para-apps/) — Verificação idade `canaltech`
+<img src="arrows.png" width="14"/> [LinkedIn cria botão oficial para denunciar "lixo de IA" no feed](https://canaltech.com.br/inteligencia-artificial/linked-in-cria-botao-oficial-para-denunciar-lixo-de-ia-no-feed/) — Lixo de IA `canaltech`
 
-<img src="arrows.png" width="14"/> [Situação crítica: Microsoft perde uma fortuna a cada Xbox vendido](https://canaltech.com.br/games/situacao-critica-microsoft-perde-uma-fortuna-a-cada-xbox-vendido/) — Perda financeira `canaltech`
+<img src="arrows.png" width="14"/> [Android superseguro vira alvo dos EUA por função que apaga dados do celular](https://tecnoblog.net/noticias/android-superseguro-vira-alvo-dos-eua-por-funcao-que-apaga-dados-do-celular/) — Privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Confirmado: novo tablet premium da Samsung chega em breve](https://canaltech.com.br/tablet/confirmado-novo-tablet-premium-da-samsung-chega-em-breve/) — Novo tablet `canaltech`
+<img src="arrows.png" width="14"/> [Asus Zenbook A16 estreia Snapdragon X2 Elite Extreme no Brasil; veja preço](https://tecnoblog.net/noticias/asus-zenbook-a16-estreia-snapdragon-x2-elite-extreme-no-brasil-veja-preco/) — Processamento rápido `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Logitech terá mouse com bateria removível, mas só na Europa](https://tecnoblog.net/noticias/logitech-tera-mouse-com-bateria-removivel-mas-so-na-europa/) — Inovação mouse `tecnoblog`
+<img src="arrows.png" width="14"/> [Samsung prepara o lançamento do Galaxy S26 FE, que pode chegar mais caro](https://tecnoblog.net/noticias/samsung-prepara-o-lancamento-do-galaxy-s26-fe-que-pode-chegar-mais-caro/) — Inovação Samsung `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Celular Xiaomi com NFC: 7 smartphones para comprar em 2026](https://tecnoblog.net/guias/celular-xiaomi-com-nfc/) — Smartphones NFC `tecnoblog`
+<img src="arrows.png" width="14"/> [Aplicativo do Tesouro Direto será desativado em breve](https://tecnoblog.net/noticias/aplicativo-do-tesouro-direto-sera-desativado-em-breve/) — Finanças digitais `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Como testar o microfone do celular para identificar problemas](https://tecnoblog.net/responde/como-testar-o-microfone-do-celular-para-identificar-problemas/) — Teste microfone `tecnoblog`
+<img src="arrows.png" width="14"/> [ASUS lança 1º notebook do Brasil com X2 Elite Extreme e cobra preço absurdo](https://canaltech.com.br/hardware/asus-lanca-1-notebook-do-brasil-com-x2-elite-extreme-e-cobra-preco-absurdo/) — Notebook potente `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> O crescimento da Starlink em áreas rurais é um exemplo claro de como a tecnologia pode alcançar regiões remotas e melhorar a conectividade. Além disso, a IBM está dando passos importantes rumo a computadores quânticos mais confiáveis, o que pode revolucionar a forma como processamos dados e informações.
+> <img src="arrows.png" width="14"/> A OpenAI cortou o preço de sua IA recém-lançada para rivalizar com modelos chineses, o que pode tornar a inteligência artificial mais acessível a empresas e desenvolvedores. Isso pode impulsionar o desenvolvimento de soluções de IA em diversas áreas, desde processamento de linguagem natural até análise de dados.
 
 <br/>
 
