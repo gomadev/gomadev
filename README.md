@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Dia dos Pais 2026: Nintendo Switch 2 e mais consoles pelo menor preço atual](https://tecnoblog.net/achados/dia-dos-pais-2026-nintendo-switch-2-e-mais-consoles-pelo-menor-preco-atual/) — Consoles em oferta `tecnoblog`
+<img src="arrows.png" width="14"/> [Por que as empresas de IAs estão “devorando” livros impressos?](https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/) — IA avança `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Google remove IA para criar imagens no Earth um dia após lançamento](https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/) — IA removida rapidamente `tecnoblog`
+<img src="arrows.png" width="14"/> [Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista](https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/) — Tecnologia avançada `tecnoblog`
 
-<img src="arrows.png" width="14"/> [De olho em GTA 6, corrida por emulador de PS5 no PC avança em tempo recorde](https://canaltech.com.br/games/de-olho-em-gta-6-corrida-por-emulador-de-ps-5-no-pc-avanca-em-tempo-recorde/) — Emulador de PS5 `canaltech`
+<img src="arrows.png" width="14"/> [Google remove IA para criar imagens no Earth um dia após lançamento](https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/) — IA remove `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Intel supera limite da física e pode iniciar era dos chips hipergrandes](https://canaltech.com.br/hardware/intel-supera-limite-da-fisica-e-pode-iniciar-era-dos-chips-hipergrandes/) — Chips hipergrandes `canaltech`
+<img src="arrows.png" width="14"/> [Como funciona o ChatGPT Work, o agente de IA que trabalha por você](https://canaltech.com.br/inteligencia-artificial/como-funciona-o-chat-gpt-work-o-agente-de-ia-que-trabalha-por-voce/) — IA trabalha `canaltech`
 
-<img src="arrows.png" width="14"/> [Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista](https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/) — Robotáxi liberado `tecnoblog`
+<img src="arrows.png" width="14"/> [CEO da Xbox mira PlayStation e revela planos para futuro do videogame](https://tecnoblog.net/noticias/ceo-da-xbox-mira-playstation-e-explica-planos-para-futuro-da-empresa/) — Futuro gaming `tecnoblog`
 
-<img src="arrows.png" width="14"/> [WhatsApp testa função de gravar áudios sem abrir a conversa](https://tecnoblog.net/noticias/whatsapp-testa-funcao-de-gravar-audios-sem-abrir-uma-conversa/) — WhatsApp testa recurso `tecnoblog`
+<img src="arrows.png" width="14"/> [10 gerenciadores de senhas: os prós e contras de cada serviço](https://tecnoblog.net/guias/10-gerenciadores-de-senhas-os-pros-e-contras-de-cada-servico/) — Segurança importante `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Vai jogar GTA 6? Sony garante preço e estoque do PS5 até 2027](https://canaltech.com.br/games/vai-jogar-gta-6-sony-garante-preco-e-estoque-do-ps-5-ate-2027/) — PS5 garantido até 2027 `canaltech`
+<img src="arrows.png" width="14"/> [Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil](https://tecnoblog.net/noticias/empresa-chinesa-quer-lancar-smartphone-de-8-000-mah-no-brasil/) — Mercado em alta `tecnoblog`
 
-<img src="arrows.png" width="14"/> [WhatsApp lança "faxineira" para limpar arquivos de Canais e liberar espaço](https://canaltech.com.br/apps/whats-app-lanca-faxineira-para-limpar-arquivos-de-canais-e-liberar-espaco/) — WhatsApp limpa arquivos `canaltech`
+<img src="arrows.png" width="14"/> [iPhone pode sofrer histórico aumento de preço](https://tecnoblog.net/noticias/iphone-pode-sofrer-historico-aumento-de-preco/) — Preços aumentam `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A corrida por emuladores de consoles avança rapidamente, com o emulador de PS5 no PC sendo desenvolvido em tempo recorde, enquanto a Intel supera limites da física com chips hipergrandes, abrindo novas possibilidades para a indústria de tecnologia. A garantia de estoque de PS5 até 2027 e o desenvolvimento de tecnologias de IA também são destaques importantes do dia.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está cada vez mais presente em nossa vida diária, desde a criação de imagens no Google Earth até a automação de tarefas com o ChatGPT Work. O CEO da Xbox também revelou planos para o futuro do videogame, mostrando que a IA é um tema quente e em constante evolução.
 
 <br/>
 
