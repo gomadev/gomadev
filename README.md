@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [&#8220;Você está falando com uma IA&#8221;: aviso passa a ser obrigatório na Europa](https://tecnoblog.net/noticias/voce-esta-falando-com-uma-ia-aviso-passa-a-ser-obrigatorio-na-europa/) — IA na Europa `tecnoblog`
+<img src="arrows.png" width="14"/> [Apple sofre com ritmo da IA e limita programa que paga por bug descoberto](https://tecnoblog.net/noticias/apple-sofre-com-ritmo-da-ia-e-limita-programa-que-paga-por-bug-descoberto/) — IA sofre limitações `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Gemini Spark ganha integração no Chrome para navegar sozinho por aí](https://canaltech.com.br/inteligencia-artificial/gemini-spark-ganha-integracao-no-chrome-para-navegar-sozinho-por-ai/) — IA no Chrome `canaltech`
+<img src="arrows.png" width="14"/> [IA reduz resposta a incidentes de horas para segundos, diz diretor da Globo](https://canaltech.com.br/mercado/ia-reduz-resposta-a-incidentes-de-horas-para-segundos-diz-diretor-da-globo/) — IA reduz tempo `canaltech`
 
-<img src="arrows.png" width="14"/> [Gemini vai liberar criação de assistentes de IA no celular sem plano profissional](https://canaltech.com.br/inteligencia-artificial/gemini-vai-liberar-criacao-de-assistentes-de-ia-no-celular-sem-plano-profissional/) — IA no celular `canaltech`
+<img src="arrows.png" width="14"/> [Futuro Xbox poderá ter jogos das gerações anteriores (se estúdios toparem)](https://tecnoblog.net/noticias/futuro-xbox-podera-ter-jogos-das-geracoes-anteriores-se-estudios-toparem/) — Jogos antigos retornam `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Claro descarta IA no atendimento telefônico (ao contrário da Vivo)](https://tecnoblog.net/noticias/claro-descarta-ia-no-atendimento-telefonico-ao-contrario-da-vivo/) — IA no atendimento `tecnoblog`
+<img src="arrows.png" width="14"/> [Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso](https://tecnoblog.net/noticias/linux-rouba-espaco-do-windows-na-america-do-norte-mas-por-um-motivo-curioso/) — Linux cresce rápido `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Óculos da Apple serão "Apple Watch para o rosto" em vez de câmera para Instagram](https://canaltech.com.br/produtos/oculos-da-apple-serao-apple-watch-para-o-rosto-em-vez-de-camera-para-instagram/) — Óculos da Apple `canaltech`
+<img src="arrows.png" width="14"/> [XBOX Helix promete a maior biblioteca da história dos games](https://canaltech.com.br/games/xbox-helix-promete-a-maior-biblioteca-da-historia-dos-games/) — Biblioteca de games `canaltech`
 
-<img src="arrows.png" width="14"/> [Google remodela Pesquisa por Voz e lança nova interface unificada; veja como ficou](https://canaltech.com.br/apps/google-remodela-pesquisa-por-voz-e-lanca-nova-interface-unificada-veja-como-ficou/) — Nova interface Google `canaltech`
+<img src="arrows.png" width="14"/> [Windows 11 &#8220;espiona&#8221; seu PC a cada 15 minutos? Microsoft nega](https://tecnoblog.net/noticias/windows-11-espiona-seu-pc-a-cada-15-minutos-microsoft-nega/) — Privacidade em risco `tecnoblog`
 
-<img src="arrows.png" width="14"/> ["iPhone da Xiaomi" tem traseira que brilha e você vai poder desenhar nela; entenda](https://canaltech.com.br/smartphone/i-phone-da-xiaomi-tem-traseira-que-brilha-e-voce-vai-poder-desenhar-nela-entenda/) — Xiaomi inova `canaltech`
+<img src="arrows.png" width="14"/> [Como colocar senha no chip do celular: saiba ativar o PIN da operadora](https://tecnoblog.net/responde/como-ativar-o-pin-do-chip-da-operadora-no-android-ou-ios/) — Segurança de dados `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Como ver animais ou dinossauros em 3D no Google; confira lista de opções](https://tecnoblog.net/responde/como-ver-animais-ou-dinossauros-em-3d-no-google-confira-lista-de-opcoes/) — Google em 3D `tecnoblog`
+<img src="arrows.png" width="14"/> [Dia dos pais 2026: Galaxy Buds 3 e mais fones ficam até 57% mais baratos](https://tecnoblog.net/achados/dia-dos-pais-2026-galaxy-buds-3-e-mais-fones-ficam-ate-57-mais-baratos/) — Descontos em fones `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A Inteligência Artificial está cada vez mais presente em nossas vidas, com a União Europeia implementando regras para o uso de IA em atendimentos telefônicos. Além disso, empresas como a Apple e a Xiaomi estão desenvolvendo novas tecnologias que integrarão IA em nossos dispositivos móveis, prometendo revolucionar a forma como interagimos com a tecnologia.
+> <img src="arrows.png" width="14"/> O tema mais quente do dia é a limitação do programa de IA da Apple, que sofre com o ritmo da inteligência artificial. Isso pode afetar o desenvolvimento de novas tecnologias e a segurança dos dispositivos.
 
 <br/>
 
