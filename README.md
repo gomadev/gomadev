@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [IA descobre falha no Zoom que permitia invadir PCs e celulares](https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/) — Segurança em risco `tecnoblog`
+<img src="arrows.png" width="14"/> [Quase 80% dos alunos no Brasil usam inteligência artificial para estudar](https://tecnoblog.net/noticias/quase-80-dos-alunos-no-brasil-usam-inteligencia-artificial-para-estudar/) — IA impulsiona estudos `tecnoblog`
 
-<img src="arrows.png" width="14"/> [OpenAI deixa de ter profissional responsável pela parte ética das IAs](https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/) — Ética em IA `canaltech`
+<img src="arrows.png" width="14"/> [IA descobre falha em sistema de agendamento e fura fila para usuário](https://tecnoblog.net/noticias/ia-descobre-falha-em-sistema-e-fura-fila-para-o-usuario/) — IA descobre falha `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Microsoft vai permitir login no Edge com Conta Apple para atrair usuários](https://tecnoblog.net/noticias/microsoft-vai-permitir-login-no-edge-com-conta-apple-para-atrair-usuarios/) — Integração Apple `tecnoblog`
+<img src="arrows.png" width="14"/> [Skyone lança IA que promete criar apps corporativos em poucos minutos](https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/) — IA cria apps `canaltech`
 
-<img src="arrows.png" width="14"/> [Redes sociais são obrigadas a provar como estão protegendo as crianças](https://canaltech.com.br/internet-e-redes-sociais/redes-sociais-sao-obrigadas-a-provar-como-estao-protegendo-as-criancas/) — Proteção infantil `canaltech`
+<img src="arrows.png" width="14"/> [Atualização do Windows 11 faz programas abrirem muito mais rápido](https://canaltech.com.br/software/atualizacao-do-windows-11-faz-programas-abrirem-muito-mais-rapido/) — Windows 11 atualizado `canaltech`
 
-<img src="arrows.png" width="14"/> [Deepfake falha e expõe rosto de golpista](https://tecnoblog.net/noticias/deepfake-falha-e-expoe-rosto-de-golpista/) — Deepfake falha `tecnoblog`
+<img src="arrows.png" width="14"/> [Centro-Oeste ganhará nova operadora de celular](https://tecnoblog.net/noticias/centro-oeste-ganhara-nova-operadora-de-celular/) — Nova operadora `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Nova lente de grafeno muda de foco sozinha e pode revolucionar óculos e câmeras](https://canaltech.com.br/produtos/nova-lente-de-grafeno-muda-de-foco-sozinha-e-pode-revolucionar-oculos-e-cameras/) — Inovação óptica `canaltech`
+<img src="arrows.png" width="14"/> [Brisanet começa a vender chip de celular para rede 5G em nova região do Brasil](https://canaltech.com.br/telecom/brisanet-comeca-a-vender-chip-de-celular-para-rede-5g-em-nova-regiao-do-brasil/) — 5G em nova região `canaltech`
 
-<img src="arrows.png" width="14"/> [Placas GeForce RTX 50 ficaram até 39% mais caras já em agosto](https://canaltech.com.br/hardware/placas-geforce-rtx-50-ficaram-ate-39-mais-caras-ja-em-agosto/) — Preços GeForce `canaltech`
+<img src="arrows.png" width="14"/> [Chrome cala sites chatos no celular, bloqueia notificações e poupa bateria](https://canaltech.com.br/apps/chrome-cala-sites-chatos-no-celular-bloqueia-notificacoes-e-poupa-bateria/) — Chrome otimiza bateria `canaltech`
 
-<img src="arrows.png" width="14"/> [Acabou a disputa: Marvel confirma qual é o melhor Homem-Aranha](https://canaltech.com.br/entretenimento/acabou-a-disputa-marvel-confirma-qual-e-o-melhor-homem-aranha/) — Disputa Marvel `canaltech`
+<img src="arrows.png" width="14"/> [Amazon encerra publicação de mais dois jogos; veja quais](https://canaltech.com.br/games/amazon-encerra-publicacao-de-mais-dois-jogos-veja-quais/) — Jogos Amazon encerrados `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A tecnologia de IA está avançando rapidamente, com implicações significativas para a segurança e a privacidade. A falha no Zoom e a exposição de golpistas por deepfakes são exemplos de como a tecnologia pode ser usada para fins mal-intencionados, destacando a importância da ética e da regulamentação no desenvolvimento de IA.
+> <img src="arrows.png" width="14"/> A inteligência artificial está revolucionando a forma como estudamos e trabalhamos, com ferramentas como a IA que descobre falhas em sistemas e cria aplicativos corporativos em poucos minutos. Além disso, a atualização do Windows 11 traz melhorias significativas para a performance dos programas, tornando-o uma ótima opção para desenvolvedores e usuários de backend e data engineering.
 
 <br/>
 
