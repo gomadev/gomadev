@@ -10,25 +10,25 @@
 
 <br/>
 
-<img src="arrows.png" width="14"/> [Quase 80% dos alunos no Brasil usam inteligência artificial para estudar](https://tecnoblog.net/noticias/quase-80-dos-alunos-no-brasil-usam-inteligencia-artificial-para-estudar/) — IA impulsiona estudos `tecnoblog`
+<img src="arrows.png" width="14"/> [Google lança Gemini 3.7 Flash apenas três semanas após versão anterior](https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/) — melhora desempenho `tecnoblog`
 
-<img src="arrows.png" width="14"/> [IA descobre falha em sistema de agendamento e fura fila para usuário](https://tecnoblog.net/noticias/ia-descobre-falha-em-sistema-e-fura-fila-para-o-usuario/) — IA descobre falha `tecnoblog`
+<img src="arrows.png" width="14"/> [Meta quer usar IA para combater golpes no WhatsApp](https://tecnoblog.net/noticias/meta-quer-usar-ia-para-combater-golpes-no-whatsapp/) — combate golpes `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Skyone lança IA que promete criar apps corporativos em poucos minutos](https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/) — IA cria apps `canaltech`
+<img src="arrows.png" width="14"/> [Mais do que implantar IA, CSCs precisam preparar a operação](https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/) — otimiza operações `canaltech`
 
-<img src="arrows.png" width="14"/> [Atualização do Windows 11 faz programas abrirem muito mais rápido](https://canaltech.com.br/software/atualizacao-do-windows-11-faz-programas-abrirem-muito-mais-rapido/) — Windows 11 atualizado `canaltech`
+<img src="arrows.png" width="14"/> [Microsoft 365 (Office) não terá mais novos recursos no Windows 10](https://tecnoblog.net/noticias/microsoft-365-nao-tera-mais-novos-recursos-no-windows-10/) — fim de suporte `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Centro-Oeste ganhará nova operadora de celular](https://tecnoblog.net/noticias/centro-oeste-ganhara-nova-operadora-de-celular/) — Nova operadora `tecnoblog`
+<img src="arrows.png" width="14"/> [Trump libera empresas privadas para "ataque hacker" contra crime internacional](https://canaltech.com.br/internet-e-redes-sociais/trump-libera-empresas-privadas-para-ataque-hacker-contra-crime-internacional/) — segurança cibernética `canaltech`
 
-<img src="arrows.png" width="14"/> [Brisanet começa a vender chip de celular para rede 5G em nova região do Brasil](https://canaltech.com.br/telecom/brisanet-comeca-a-vender-chip-de-celular-para-rede-5g-em-nova-regiao-do-brasil/) — 5G em nova região `canaltech`
+<img src="arrows.png" width="14"/> [Xiaomi revela primeiros celulares a receber HyperOS 4; o seu está na lista?](https://canaltech.com.br/apps/xiaomi-revela-primeiros-celulares-a-receber-hyperos-4-o-seu-esta-na-lista/) — atualização sistema `canaltech`
 
-<img src="arrows.png" width="14"/> [Chrome cala sites chatos no celular, bloqueia notificações e poupa bateria](https://canaltech.com.br/apps/chrome-cala-sites-chatos-no-celular-bloqueia-notificacoes-e-poupa-bateria/) — Chrome otimiza bateria `canaltech`
+<img src="arrows.png" width="14"/> [Samsung trabalha em headphone premium para desafiar JBL e Apple; veja o que sabemos](https://canaltech.com.br/fone-de-ouvido/samsung-trabalha-em-headphone-premium-para-desafiar-jbl-e-apple-veja-o-que-sabemos/) — inovação áudio `canaltech`
 
-<img src="arrows.png" width="14"/> [Amazon encerra publicação de mais dois jogos; veja quais](https://canaltech.com.br/games/amazon-encerra-publicacao-de-mais-dois-jogos-veja-quais/) — Jogos Amazon encerrados `canaltech`
+<img src="arrows.png" width="14"/> [TV Globinho volta à programação da Globo para reviver nostalgia](https://canaltech.com.br/entretenimento/tv-globinho-volta-a-programacao-da-globo-para-reviver-nostalgia/) — entretenimento revival `canaltech`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A inteligência artificial está revolucionando a forma como estudamos e trabalhamos, com ferramentas como a IA que descobre falhas em sistemas e cria aplicativos corporativos em poucos minutos. Além disso, a atualização do Windows 11 traz melhorias significativas para a performance dos programas, tornando-o uma ótima opção para desenvolvedores e usuários de backend e data engineering.
+> <img src="arrows.png" width="14"/> A inteligência artificial está se tornando cada vez mais presente em nossas vidas, com aplicações em segurança cibernética, inovação de produtos e otimização de processos. A Meta, por exemplo, está utilizando IA para combater golpes no WhatsApp, demonstrando o potencial dessa tecnologia em melhorar a segurança online.
 
 <br/>
 
