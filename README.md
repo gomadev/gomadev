@@ -14,21 +14,21 @@
 
 <img src="arrows.png" width="14"/> [Google decide que marca d&#8217;água para IA é opcional; entenda](https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/) — IA transparente `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa](https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/) — Desconfiança em IA `tecnoblog`
+<img src="arrows.png" width="14"/> [Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa](https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/) — Jovens céticos `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Nova função do ChatGPT registra tudo que você faz no PC, sem criptografia](https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/) — Privacidade em risco `canaltech`
+<img src="arrows.png" width="14"/> [Galaxy Buds 4 Pro com áudio de alta fidelidade tem 21% OFF em oferta](https://tecnoblog.net/achados/galaxy-buds-4-pro-com-audio-de-alta-fidelidade-tem-21-off-em-oferta/) — Áudio melhor `tecnoblog`
 
-<img src="arrows.png" width="14"/> [WhatsApp testa reações personalizada com emojis favoritos, mas tem uma "pegadinha"](https://canaltech.com.br/apps/whatsapp-testa-reacoes-personalizada-com-emojis-favoritos-mas-tem-uma-pegadinha/) — Comunicação personalizada `canaltech`
+<img src="arrows.png" width="14"/> [Como obter a melhor qualidade de áudio no Spotify?](https://canaltech.com.br/apps/como-obter-a-melhor-qualidade-de-audio-no-spotify/) — Áudio otimizado `canaltech`
 
-<img src="arrows.png" width="14"/> [Galaxy Buds 4 Pro com áudio de alta fidelidade tem 21% OFF em oferta](https://tecnoblog.net/achados/galaxy-buds-4-pro-com-audio-de-alta-fidelidade-tem-21-off-em-oferta/) — Áudio de alta fidelidade `tecnoblog`
+<img src="arrows.png" width="14"/> [Nubank caiu? App e cartão voltam a funcionar após instabilidade na sexta (14)](https://tecnoblog.net/noticias/nubank-caiu-aplicativo-fica-fora-do-ar-nesta-sexta-14/) — Estabilidade financeira `tecnoblog`
 
-<img src="arrows.png" width="14"/> [Nubank caiu? App e cartão voltam a funcionar após instabilidade na sexta (14)](https://tecnoblog.net/noticias/nubank-caiu-aplicativo-fica-fora-do-ar-nesta-sexta-14/) — Instabilidade resolvida `tecnoblog`
+<img src="arrows.png" width="14"/> [Por que alguns carros elétricos fazem barulho em baixa velocidade?](https://canaltech.com.br/carros/por-que-alguns-carros-eletricos-fazem-barulho-em-baixa-velocidade/) — Carros elétricos `canaltech`
 
-<img src="arrows.png" width="14"/> [Novo Apple Watch será lançado daqui 3 semanas; veja tudo que já sabemos](https://canaltech.com.br/smartwatch/novo-apple-watch-sera-lancado-daqui-3-semanas-veja-tudo-que-ja-sabemos/) — Lançamento próximo `canaltech`
+<img src="arrows.png" width="14"/> [Celular que grava em 4K: os 10 melhores modelos para comprar em 2026](https://tecnoblog.net/guias/melhor-celular-camera-4k/) — Fotografia avançada `tecnoblog`
 
 <br/>
 
-> <img src="arrows.png" width="14"/> A IA continua a avançar e se tornar mais transparente, com a Google decidindo que a marca d'água para IA é opcional. No entanto, a desconfiança em relação à IA também está crescendo, especialmente entre os jovens, que questionam a privacidade e a segurança dos dados.
+> <img src="arrows.png" width="14"/> A Inteligência Artificial está cada vez mais presente em nosso cotidiano, seja por meio de assistentes virtuais ou de melhorias em dispositivos de áudio. A transparência da IA é fundamental para conquistar a confiança dos usuários, que buscam entender como essas tecnologias funcionam e como podem ser usadas de forma benéfica.
 
 <br/>
 
