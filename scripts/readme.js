@@ -60,18 +60,16 @@ ${newsText}
 Retorne APENAS um JSON válido, sem explicações, sem markdown, sem blocos de código. Estrutura exata:
 
 {
-  "frase_do_dia": "uma frase curta (máx 10 palavras), ousada, sobre tecnologia ou o dia. sem saudações.",
   "noticias": [
     {
       "index": 1,
-      "emoji": "emoji temático",
       "impacto": "por que importa em até 5 palavras"
     }
   ],
   "destaque": "2 frases analíticas sobre o tema mais quente do dia. tom de especialista."
 }
 
-Selecione no máximo 8 notícias priorizando relevância para Backend, Data Engineering e IA.
+Selecione exatamente 3 notícias priorizando relevância para Backend, Data Engineering e IA.
 Os índices em "noticias" devem corresponder aos números da lista acima.`;
 
   const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
@@ -81,7 +79,7 @@ Os índices em "noticias" devem corresponder aos números da lista acima.`;
       Authorization: `Bearer ${GROQ_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "llama-3.3-70b-versatile",
+      model: "openai/gpt-oss-20b",
       max_tokens: 1000,
       temperature: 0.7,
       messages: [{ role: "user", content: prompt }],
@@ -108,22 +106,17 @@ Os índices em "noticias" devem corresponder aos números da lista acima.`;
 
 // Montagem
 
-function sourceLabel(source) {
-  return source.toLowerCase();
-}
-
 function buildReadme(template, allNews, content) {
   const rows = content.noticias.map((item) => {
     const news = allNews[item.index - 1];
     if (!news) return null;
-    return `<img src="arrows.png" width="14"/> [${news.title}](${news.url}) — ${item.impacto} \`${sourceLabel(news.source)}\``;
+    return `**[${news.title}](${news.url})**  \n\`${news.source.toLowerCase()}\` — ${item.impacto}`;
   }).filter(Boolean);
 
-  const table = rows.join("\n\n");
+  const noticias = rows.join("\n\n");
 
   return template
-    .replace("{{FRASE_DO_DIA}}", content.frase_do_dia)
-    .replace("{{TABELA_NOTICIAS}}", table)
+    .replace("{{NOTICIAS}}", noticias)
     .replace("{{DESTAQUE}}", content.destaque);
 }
 
@@ -155,9 +148,8 @@ async function main() {
   const readmePath = path.join(__dirname, "..", "README.md");
   fs.writeFileSync(readmePath, readme, "utf-8");
 
-  //console.log("Atualizado!");
-  //console.log(`Salvo.`);
-  //console.log(`Salvo em: ${readmePath}`);
+  console.log("3. Gerando README");
+  console.log(`Salvo em: ${readmePath}`);
 }
 
 main().catch((e) => {
