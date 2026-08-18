@@ -32,10 +32,7 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-
-<br/>
-
-
+---
 
 <div align="center">
   <samp><i>Mundo da técnologia. Atualizado diariamente!</i></samp>
@@ -43,13 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Anthropic explica como o Claude vai identificar textos gerados por IA](https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/)**  
-`tecnoblog` — Claude identifica textos IA
+**[Firefox ganha mais recursos de IA (calma, eles são opcionais)](https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/)**  
+`tecnoblog` — Optional AI tools boost productivity
 
-**[Gemini Notebook libera cópia de cadernos inteiros com um único clique](https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/)**  
-`canaltech` — Gemini copia cadernos instantaneamente
+**[OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados](https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/)**  
+`tecnoblog` — Teen-friendly ChatGPT enhances learning
 
-**[Meta começa a ser julgada nos EUA por prejudicar crianças e adolescentes](https://tecnoblog.net/noticias/meta-comeca-a-ser-julgada-nos-eua-por-prejudicar-criancas-e-adolescentes/)**  
-`tecnoblog` — Meta enfrenta processo de dados crianças
+**["Starlink da Amazon" está chegando ao Brasil: Anatel autoriza venda de equipamento](https://canaltech.com.br/telecom/starlink-da-amazon-esta-chegando-ao-brasil-anatel-autoriza-venda-de-equipamento/)**  
+`canaltech` — Amazon Starlink expands broadband reach
 
 <br/>
+
+> OpenAI’s ChatGPT for Teens represents a strategic push into the education sector, leveraging advanced safety filters to mitigate misuse. This move signals a broader industry trend toward tailored AI experiences that prioritize user context and compliance.
