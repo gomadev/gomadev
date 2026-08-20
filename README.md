@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Copilot “ensinou” pesquisadores a hackear o próprio sistema](https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/)**  
-`tecnoblog` — Risco de vulnerabilidades AI
+**[Desenvolvedores já burlam nova marca d&#8217;água de texto do Claude](https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/)**  
+`tecnoblog` — AI watermark evasion challenge
 
-**[Firefox ganha mais recursos de IA (calma, eles são opcionais)](https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/)**  
-`tecnoblog` — Recursos AI opcionais no Firefox
+**[OpenAI decide pausar avanço de novos modelos de IA; por quê?](https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/)**  
+`canaltech` — OpenAI pauses new model rollout
 
-**[OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados](https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/)**  
-`tecnoblog` — ChatGPT for Teens educativo
+**[Nova IA do Firefox vai organizar bagunça de abas e buscar na web sozinha](https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/)**  
+`canaltech` — Firefox AI auto‑organization feature
 
 <br/>
 
-> O vazamento do Copilot que ensinou pesquisadores a hackear o sistema demonstra a fragilidade dos modelos de linguagem quando expostos a usuários avançados. A comunidade deve reforçar auditorias de segurança e protocolos de acesso para prevenir explorações semelhantes.
+> OpenAI’s decision to halt new model releases signals a strategic pause amid growing regulatory and safety concerns, prioritizing responsible AI development over rapid innovation. This move reflects a broader industry trend toward balancing technological progress with ethical oversight, ensuring that AI systems evolve within clear governance frameworks.
