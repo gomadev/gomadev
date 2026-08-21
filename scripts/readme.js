@@ -94,13 +94,32 @@ Os índices em "noticias" devem corresponder aos números da lista acima.`;
   const data = await res.json();
   const raw = data.choices[0].message.content.trim();
 
+  return parseJSON(raw);
+}
+
+function parseJSON(raw) {
   try {
     return JSON.parse(raw);
   } catch {
-    // Tenta extrair JSON caso venha com texto ao redor
-    const match = raw.match(/\{[\s\S]*\}/);
-    if (match) return JSON.parse(match[0]);
-    throw new Error("Resposta do Groq não é JSON válido:\n" + raw);
+    // Remove code block markdown se presente
+    const stripped = raw.replace(/```(?:json)?\s*/g, "").replace(/```\s*/g, "").trim();
+    try {
+      return JSON.parse(stripped);
+    } catch {
+      // Tenta extrair JSON do texto
+      const match = stripped.match(/\{[\s\S]*\}/);
+      if (match) {
+        try {
+          return JSON.parse(match[0]);
+        } catch {
+          // limpa quebras de linha dentro das strings antes de parsear
+          const cleaned = match[0].replace(/\\\n/g, "\\n");
+          return JSON.parse(cleaned);
+        }
+      }
+      console.error("Resposta bruta do Groq:\n" + raw);
+      throw new Error("Resposta do Groq não é JSON válido");
+    }
   }
 }
 
@@ -138,7 +157,17 @@ async function main() {
   }
 
   console.log("2. Groq");
-  const content = await generateContent(allNews);
+  let content;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      content = await generateContent(allNews);
+      break;
+    } catch (e) {
+      console.error(`Tentativa ${attempt}/3 falhou: ${e.message}`);
+      if (attempt === 3) throw e;
+      await new Promise((r) => setTimeout(r, 2000));
+    }
+  }
 
   const templatePath = path.join(__dirname, "..", "template.md");
   const template = fs.readFileSync(templatePath, "utf-8");
