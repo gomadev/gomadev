@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Desenvolvedores já burlam nova marca d&#8217;água de texto do Claude](https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/)**  
-`tecnoblog` — AI watermark evasion challenge
+**[Brasil vai gastar R$ 2,3 bilhões para turbinar infraestrutura nacional de IA](https://tecnoblog.net/noticias/brasil-vai-gastar-r-23-bilhoes-para-turbinar-infraestrutura-nacional-de-ia/)**  
+`tecnoblog` — Investimento em IA fortalece infraestrutura
 
-**[OpenAI decide pausar avanço de novos modelos de IA; por quê?](https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/)**  
-`canaltech` — OpenAI pauses new model rollout
+**[Um em cada três sites criados após ChatGPT tem sinais de IA](https://tecnoblog.net/noticias/um-em-cada-tres-sites-criados-apos-chatgpt-tem-sinais-de-ia/)**  
+`tecnoblog` — Sites pós-ChatGPT mostram IA indicativos
 
-**[Nova IA do Firefox vai organizar bagunça de abas e buscar na web sozinha](https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/)**  
-`canaltech` — Firefox AI auto‑organization feature
+**[Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA](https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/)**  
+`tecnoblog` — Task Manager monitora hardware IA
 
 <br/>
 
-> OpenAI’s decision to halt new model releases signals a strategic pause amid growing regulatory and safety concerns, prioritizing responsible AI development over rapid innovation. This move reflects a broader industry trend toward balancing technological progress with ethical oversight, ensuring that AI systems evolve within clear governance frameworks.
+> O investimento de R$2,3 bilhões sinaliza a intenção do Brasil de se posicionar como referência em IA, ampliando a capacidade de processamento e armazenamento de dados. Essa estratégia cria um ecossistema propício para startups e grandes empresas, acelerando a inovação no setor tecnológico nacional.
