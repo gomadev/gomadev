@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Brasil vai gastar R$ 2,3 bilhões para turbinar infraestrutura nacional de IA](https://tecnoblog.net/noticias/brasil-vai-gastar-r-23-bilhoes-para-turbinar-infraestrutura-nacional-de-ia/)**  
-`tecnoblog` — Investimento em IA fortalece infraestrutura
+**[Nova IA da DeepSeek resolve tarefas apenas olhando telas](https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/)**  
+`canaltech` — DeepSeek AI: screen-based task automation
 
-**[Um em cada três sites criados após ChatGPT tem sinais de IA](https://tecnoblog.net/noticias/um-em-cada-tres-sites-criados-apos-chatgpt-tem-sinais-de-ia/)**  
-`tecnoblog` — Sites pós-ChatGPT mostram IA indicativos
+**[Alerta na Intel: AMD abocanha fatia histórica no mercado de CPUs, ultrapassando 30%](https://canaltech.com.br/hardware/alerta-na-intel-amd-abocanha-fatia-historica-no-mercado-de-cpus-ultrapassando-30/)**  
+`canaltech` — AMD surpasses Intel 30% share
 
-**[Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA](https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/)**  
-`tecnoblog` — Task Manager monitora hardware IA
+**[SanDisk lança linha de SSDs Optimus no Brasil com até 4 TB; veja modelos e preços](https://canaltech.com.br/hardware/sandisk-lanca-linha-de-ssds-optimus-no-brasil-com-ate-4-tb-veja-modelos-e-precos/)**  
+`canaltech` — SanDisk SSDs: 4TB performance surge
 
 <br/>
 
-> O investimento de R$2,3 bilhões sinaliza a intenção do Brasil de se posicionar como referência em IA, ampliando a capacidade de processamento e armazenamento de dados. Essa estratégia cria um ecossistema propício para startups e grandes empresas, acelerando a inovação no setor tecnológico nacional.
+> DeepSeek’s screen‑focused AI redefines automation, eliminating the need for code and enabling instant task execution across desktop environments. This breakthrough signals a paradigm shift toward visual programming interfaces, promising to streamline backend workflows and accelerate data‑engineering pipelines.
