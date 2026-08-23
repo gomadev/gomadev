@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Nova IA da DeepSeek resolve tarefas apenas olhando telas](https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/)**  
-`canaltech` — DeepSeek AI: screen-based task automation
+**[Botão anti-IA do LinkedIn é avaliado positivamente](https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/)**  
+`tecnoblog` — Melhorias na IA LinkedIn
 
-**[Alerta na Intel: AMD abocanha fatia histórica no mercado de CPUs, ultrapassando 30%](https://canaltech.com.br/hardware/alerta-na-intel-amd-abocanha-fatia-historica-no-mercado-de-cpus-ultrapassando-30/)**  
-`canaltech` — AMD surpasses Intel 30% share
+**[O que é o Muse Spark? Aprenda a usar a nova IA da Meta](https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/)**  
+`canaltech` — Nova IA Meta Muse Spark
 
-**[SanDisk lança linha de SSDs Optimus no Brasil com até 4 TB; veja modelos e preços](https://canaltech.com.br/hardware/sandisk-lanca-linha-de-ssds-optimus-no-brasil-com-ate-4-tb-veja-modelos-e-precos/)**  
-`canaltech` — SanDisk SSDs: 4TB performance surge
+**[Anatel quer antecipar metas da Claro e TIM](https://tecnoblog.net/noticias/anatel-quer-antecipar-metas-de-4g-e-5g-da-claro-e-tim-entenda/)**  
+`tecnoblog` — Metas 4G/5G antecipadas
 
 <br/>
 
-> DeepSeek’s screen‑focused AI redefines automation, eliminating the need for code and enabling instant task execution across desktop environments. This breakthrough signals a paradigm shift toward visual programming interfaces, promising to streamline backend workflows and accelerate data‑engineering pipelines.
+> O LinkedIn introduz um botão anti-IA que reforça a governança de conteúdo gerado por algoritmos, sinalizando uma mudança de postura corporativa em direção à transparência. Enquanto isso, a Meta lança o Muse Spark, demonstrando que a concorrência em IA continua intensa, com foco em personalização e eficiência de recursos computacionais.
