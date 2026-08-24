@@ -41,14 +41,14 @@ PostgreSQL · MySQL · MongoDB · Firebase
 <br/>
 
 **[Botão anti-IA do LinkedIn é avaliado positivamente](https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/)**  
-`tecnoblog` — Melhorias na IA LinkedIn
+`tecnoblog` — Controle de IA no LinkedIn
 
-**[O que é o Muse Spark? Aprenda a usar a nova IA da Meta](https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/)**  
-`canaltech` — Nova IA Meta Muse Spark
+**[O que é o Canvas do ChatGPT e como ele funciona?](https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/)**  
+`canaltech` — Canvas simplifica integração IA
 
-**[Anatel quer antecipar metas da Claro e TIM](https://tecnoblog.net/noticias/anatel-quer-antecipar-metas-de-4g-e-5g-da-claro-e-tim-entenda/)**  
-`tecnoblog` — Metas 4G/5G antecipadas
+**[Por que precisamos de PCs com IA se ChatGPT, Claude e Gemini estão na nuvem?](https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/)**  
+`canaltech` — PCs IA vs nuvem
 
 <br/>
 
-> O LinkedIn introduz um botão anti-IA que reforça a governança de conteúdo gerado por algoritmos, sinalizando uma mudança de postura corporativa em direção à transparência. Enquanto isso, a Meta lança o Muse Spark, demonstrando que a concorrência em IA continua intensa, com foco em personalização e eficiência de recursos computacionais.
+> O Canvas do ChatGPT democratiza o acesso a modelos avançados, permitindo que desenvolvedores construam fluxos sem depender de infraestrutura pesada. Essa abordagem híbrida reflete a tendência de combinar inteligência local com serviços de nuvem, otimizando desempenho e custos.
