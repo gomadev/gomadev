@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Botão anti-IA do LinkedIn é avaliado positivamente](https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/)**  
-`tecnoblog` — Controle de IA no LinkedIn
+**[Alexa Week: Echo Dot com 28% OFF em até 6x traz Alexa+ antecipada](https://tecnoblog.net/achados/alexa-week-echo-dot-com-28-off-em-ate-6x-traz-alexa-antecipada/)**  
+`tecnoblog` — Alexa, AI integration boost
 
-**[O que é o Canvas do ChatGPT e como ele funciona?](https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/)**  
-`canaltech` — Canvas simplifica integração IA
+**[Decisão da Microsoft pode ter deletado arquivos de 170 mil ONGs](https://tecnoblog.net/noticias/decisao-da-microsoft-pode-ter-deletado-arquivos-de-170-mil-ongs/)**  
+`tecnoblog` — Data loss threatens NGOs
 
-**[Por que precisamos de PCs com IA se ChatGPT, Claude e Gemini estão na nuvem?](https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/)**  
-`canaltech` — PCs IA vs nuvem
+**[Empresas recontratam funcionários substituídos por IA, mas pagando menos; por quê?](https://canaltech.com.br/inteligencia-artificial/empresas-recontratam-funcionarios-substituidos-por-ia-mas-pagando-menos-por-que/)**  
+`canaltech` — AI reshapes workforce, salary
 
 <br/>
 
-> O Canvas do ChatGPT democratiza o acesso a modelos avançados, permitindo que desenvolvedores construam fluxos sem depender de infraestrutura pesada. Essa abordagem híbrida reflete a tendência de combinar inteligência local com serviços de nuvem, otimizando desempenho e custos.
+> A IA está redefinindo a composição de equipes, favorecendo a automação de tarefas repetitivas enquanto cria novas oportunidades de supervisão e manutenção. Empresas que recontratam ex-funcionários com salários menores demonstram um modelo híbrido de eficiência que, embora controverso, sinaliza a necessidade de requalificação contínua.
