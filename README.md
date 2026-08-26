@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Alexa Week: Echo Dot com 28% OFF em até 6x traz Alexa+ antecipada](https://tecnoblog.net/achados/alexa-week-echo-dot-com-28-off-em-ate-6x-traz-alexa-antecipada/)**  
-`tecnoblog` — Alexa, AI integration boost
+**[Google lança Gemini jurídico para reduzir erros e alucinações](https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/)**  
+`tecnoblog` — Reduz erros jurídicos
 
-**[Decisão da Microsoft pode ter deletado arquivos de 170 mil ONGs](https://tecnoblog.net/noticias/decisao-da-microsoft-pode-ter-deletado-arquivos-de-170-mil-ongs/)**  
-`tecnoblog` — Data loss threatens NGOs
+**[Uma em cada três pessoas já contou à IA um segredo que ninguém mais sabia](https://tecnoblog.net/noticias/uma-em-cada-tres-pessoas-ja-contou-a-ia-um-segredo-que-ninguem-mais-sabia/)**  
+`tecnoblog` — Segredos revelados à IA
 
-**[Empresas recontratam funcionários substituídos por IA, mas pagando menos; por quê?](https://canaltech.com.br/inteligencia-artificial/empresas-recontratam-funcionarios-substituidos-por-ia-mas-pagando-menos-por-que/)**  
-`canaltech` — AI reshapes workforce, salary
+**[Google prepara grande atualização para acabar com a bagunça do Gemini no celular](https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/)**  
+`canaltech` — Atualização elimina bagunça Gemini
 
 <br/>
 
-> A IA está redefinindo a composição de equipes, favorecendo a automação de tarefas repetitivas enquanto cria novas oportunidades de supervisão e manutenção. Empresas que recontratam ex-funcionários com salários menores demonstram um modelo híbrido de eficiência que, embora controverso, sinaliza a necessidade de requalificação contínua.
+> O Google está investindo na segurança do Gemini, reduzindo alucinações e aumentando a confiança corporativa. Essa ênfase em IA responsável sinaliza a maturação da tecnologia e a necessidade de controle ético em larga escala.
