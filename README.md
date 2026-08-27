@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Google lança Gemini jurídico para reduzir erros e alucinações](https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/)**  
-`tecnoblog` — Reduz erros jurídicos
+**[Nvidia fecha acordo para comprar Hugging Face por US$ 12,9 bilhões, diz site](https://tecnoblog.net/noticias/nvidia-fecha-acordo-para-comprar-hugging-face-por-us-129-bilhoes-diz-site/)**  
+`tecnoblog` — AI consolidation, global market shift
 
-**[Uma em cada três pessoas já contou à IA um segredo que ninguém mais sabia](https://tecnoblog.net/noticias/uma-em-cada-tres-pessoas-ja-contou-a-ia-um-segredo-que-ninguem-mais-sabia/)**  
-`tecnoblog` — Segredos revelados à IA
+**[IA montou e coordenou equipes sozinha em ataque hacker ao Hugging Face](https://canaltech.com.br/inteligencia-artificial/ia-montou-e-coordenou-equipes-sozinha-em-ataque-hacker-ao-hugging-face/)**  
+`canaltech` — AI-enabled hack, security breach exposed
 
-**[Google prepara grande atualização para acabar com a bagunça do Gemini no celular](https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/)**  
-`canaltech` — Atualização elimina bagunça Gemini
+**[A vitrine do e-commerce agora também precisa convencer a inteligência artificial](https://canaltech.com.br/inteligencia-artificial/a-vitrine-do-e-commerce-agora-tambem-precisa-convencer-a-inteligencia-artificial/)**  
+`canaltech` — AI reshapes e-commerce experience intelligently
 
 <br/>
 
-> O Google está investindo na segurança do Gemini, reduzindo alucinações e aumentando a confiança corporativa. Essa ênfase em IA responsável sinaliza a maturação da tecnologia e a necessidade de controle ético em larga escala.
+> Nvidia's acquisition of Hugging Face marks a decisive step toward unifying generative AI ecosystems, consolidating infrastructure under a single corporate umbrella. This move will accelerate model deployment while intensifying regulatory scrutiny on data sovereignty and algorithmic transparency.
