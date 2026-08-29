@@ -40,15 +40,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
+**[Claude apagou 700 GB de dados de usuário por engano](https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/)**  
+`tecnoblog` — AI deletes 700GB data
+
 **[Google muda limites de uso do Gemini Notebook; veja como ficou](https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/)**  
-`tecnoblog` — Limites Gemini, controle de IA
+`tecnoblog` — Gemini limits shift user experience
 
-**[Meta fecha brecha que permitia gravações escondidas com óculos inteligentes](https://tecnoblog.net/noticias/meta-fecha-brecha-que-permitia-gravacoes-escondidas-com-oculos-inteligentes/)**  
-`tecnoblog` — Vulnerabilidade óculos, segurança
-
-**[Novo robô-aspirador fica 65 dias sem esvaziar sujeira mesmo limpando a casa todo dia](https://canaltech.com.br/eletro/novo-robo-aspirador-fica-65-dias-sem-esvaziar-sujeira-mesmo-limpando-a-casa-todo-dia/)**  
-`canaltech` — Robo-aspirador, IoT backend
+**[5 coisas que o Claude faz melhor que o Gemini](https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/)**  
+`canaltech` — Claude outperforms Gemini in performance
 
 <br/>
 
-> O ajuste dos limites de uso do Gemini Notebook reflete a crescente necessidade de equilibrar inovação e responsabilidade no desenvolvimento de IA, sinalizando uma tendência de governança mais rígida. Esse movimento destaca o papel crítico da engenharia de backend em garantir que as infraestruturas de IA sejam escaláveis, seguras e alinhadas às políticas de uso ético.
+> Claude's recent data deletion underscores the critical need for robust safeguards in generative AI systems. Meanwhile, Google's tightening of Gemini's usage limits signals a shift toward more controlled AI integration in enterprise workflows.
