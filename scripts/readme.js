@@ -54,6 +54,8 @@ async function generateContent(allNews) {
 
   const prompt = `Você é um curador de notícias tech. Hoje é ${today}.
 
+Responda SEMPRE em português, nunca em inglês.
+
 Notícias disponíveis:
 ${newsText}
 
@@ -63,10 +65,10 @@ Retorne APENAS um JSON válido, sem explicações, sem markdown, sem blocos de c
   "noticias": [
     {
       "index": 1,
-      "impacto": "por que importa em até 5 palavras"
+      "impacto": "por que importa em até 5 palavras, em português"
     }
   ],
-  "destaque": "2 frases analíticas sobre o tema mais quente do dia. tom de especialista."
+  "destaque": "2 frases analíticas sobre o tema mais quente do dia. tom de especialista. tudo em português"
 }
 
 Selecione exatamente 3 notícias priorizando relevância para Backend, Data Engineering e IA.
