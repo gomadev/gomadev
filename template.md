@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_vetorizada.svg" width="35"/>
 </div>
-
+<br/>
 <div align="center">
   <p><i>Guilherme</i></p>
   <i>building the backend. shaping the data. occasionally making it pretty.
