@@ -27,6 +27,7 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <div align="center">
   <samp><i>Mundo da técnologia. Atualizado diariamente!</i></samp>
+  <samp><i>powered by Groq & Actions</i></samp>
 </div>
 
 <br/>
