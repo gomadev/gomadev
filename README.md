@@ -41,14 +41,14 @@ PostgreSQL · MySQL · MongoDB · Firebase
 <br/>
 
 **[Claude apagou 700 GB de dados de usuário por engano](https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/)**  
-`tecnoblog` — AI deletes 700GB data
+`tecnoblog` — Claude deletes 700GB data
 
 **[Google muda limites de uso do Gemini Notebook; veja como ficou](https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/)**  
-`tecnoblog` — Gemini limits shift user experience
+`tecnoblog` — Google changes Gemini limits
 
-**[5 coisas que o Claude faz melhor que o Gemini](https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/)**  
-`canaltech` — Claude outperforms Gemini in performance
+**[5 dicas para treinar a memória do ChatGPT e melhorar as respostas](https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/)**  
+`canaltech` — Train ChatGPT memory tricks
 
 <br/>
 
-> Claude's recent data deletion underscores the critical need for robust safeguards in generative AI systems. Meanwhile, Google's tightening of Gemini's usage limits signals a shift toward more controlled AI integration in enterprise workflows.
+> The latest Gemini notebook limits underscore a shift toward controlled AI consumption, prompting developers to rethink token budgeting. Meanwhile, Claude's accidental data wipe highlights persistent risks in generative AI pipelines, urging stricter data governance.
