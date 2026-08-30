@@ -1,22 +1,13 @@
 <div align="center">
   <img src="logo_vetorizada.svg" width="35"/>
-<br/>
-<br/>
-<br/>
-<br/>
 </div>
 
 <div align="center">
   <p><i>Guilherme</i></p>
-  <i>Backend & Data</i>
+  <i>building the backend. shaping the data. occasionally making it pretty.
+</i>
 </div>
 <br/>
-
-
-
-<div align="center">
-  <p>Mensagenzinha de introdução (não estou com tempo pra finalizar ela, aguarde).</p>
-</div>
 <br/>
 
 <div align="left">
