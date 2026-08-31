@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_vetorizada.svg" width="35"/>
 </div>
-
+<br/>
 <div align="center">
   <p><i>Guilherme</i></p>
   <i>building the backend. shaping the data. occasionally making it pretty.
@@ -32,15 +32,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Claude apagou 700 GB de dados de usuário por engano](https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/)**  
-`tecnoblog` — perda de dados massiva
+**[Debian Linux aprova uso de IA no projeto, mas com &#8220;responsabilidade&#8221;](https://tecnoblog.net/noticias/debian-linux-aprova-uso-de-ia-no-projeto-mas-com-responsabilidade/)**  
+`tecnoblog` — IA no Debian com responsabilidade
 
-**[Google muda limites de uso do Gemini Notebook; veja como ficou](https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/)**  
-`tecnoblog` — limites afetam produtividade
+**[Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso](https://tecnoblog.net/noticias/twitter-volta-em-nova-rede-social-com-ia-mas-cobra-r-100-por-acesso/)**  
+`tecnoblog` — Twitter IA pago R$ 100
 
-**[5 dicas para treinar a memória do ChatGPT e melhorar as respostas](https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/)**  
-`canaltech` — melhora respostas com memória
+**[Processo acusa Elon Musk de treinar Grok com imagens de abuso sexual infantil](https://canaltech.com.br/inteligencia-artificial/processo-acusa-elon-musk-de-treinar-grok-com-imagens-de-abuso-sexual-infantil/)**  
+`canaltech` — Grok treinado com abuso infantil
 
 <br/>
 
-> O incidente de exclusão de 700 GB pelo Claude demonstra a fragilidade dos sistemas de IA na gestão de dados sensíveis, reforçando a necessidade de controles de acesso robustos. Esse episódio também destaca a crescente responsabilidade das empresas de IA em garantir a confiabilidade e a transparência das operações.
+> O caso do Grok demonstra a urgência de regulamentação ética na IA, pois evidencia como dados sensíveis podem ser usados sem consentimento. Especialistas recomendam auditorias independentes e transparência de treinamento para mitigar riscos e proteger direitos humanos.
