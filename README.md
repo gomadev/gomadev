@@ -32,15 +32,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Debian Linux aprova uso de IA no projeto, mas com &#8220;responsabilidade&#8221;](https://tecnoblog.net/noticias/debian-linux-aprova-uso-de-ia-no-projeto-mas-com-responsabilidade/)**  
-`tecnoblog` — IA no Debian com responsabilidade
+**[Rockstar garante GTA 6 sem microtransações e IA](https://tecnoblog.net/noticias/rockstar-garante-gta-6-sem-microtransacoes-e-ia/)**  
+`tecnoblog` — Sem microtransações, IA central
 
-**[Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso](https://tecnoblog.net/noticias/twitter-volta-em-nova-rede-social-com-ia-mas-cobra-r-100-por-acesso/)**  
-`tecnoblog` — Twitter IA pago R$ 100
+**[Europa agora trata o ChatGPT como um mecanismo de busca](https://tecnoblog.net/noticias/europa-agora-trata-o-chatgpt-como-um-mecanismo-de-busca/)**  
+`tecnoblog` — ChatGPT como motor de busca
 
-**[Processo acusa Elon Musk de treinar Grok com imagens de abuso sexual infantil](https://canaltech.com.br/inteligencia-artificial/processo-acusa-elon-musk-de-treinar-grok-com-imagens-de-abuso-sexual-infantil/)**  
-`canaltech` — Grok treinado com abuso infantil
+**[Instagram tem plano para barrar influenciadores de IA; veja se regra afeta o seu perfil](https://canaltech.com.br/apps/instagram-tem-plano-para-barrar-influenciadores-de-ia-veja-se-regra-afeta-o-seu-perfil/)**  
+`canaltech` — Regra afeta perfis de IA
 
 <br/>
 
-> O caso do Grok demonstra a urgência de regulamentação ética na IA, pois evidencia como dados sensíveis podem ser usados sem consentimento. Especialistas recomendam auditorias independentes e transparência de treinamento para mitigar riscos e proteger direitos humanos.
+> A decisão da UE de reconhecer o ChatGPT como mecanismo de busca redefine a forma como os desenvolvedores backend precisam otimizar as APIs de IA para atender às exigências de rastreabilidade e transparência. Isso força as empresas a revisarem suas infraestruturas de dados, garantindo que os resultados de busca sejam auditáveis e que o uso de modelos de linguagem cumpra as normas de privacidade europeias.
