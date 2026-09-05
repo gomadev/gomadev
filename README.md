@@ -32,15 +32,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[IA da China apontou milhares de bugs no Linux](https://tecnoblog.net/noticias/ia-da-china-apontou-milhares-de-bugs-no-linux/)**  
-`tecnoblog` — Segurança Linux comprometida por IA
+**[Nubank fora do ar: Pix volta a funcionar após instabilidade nesta sexta (4)](https://tecnoblog.net/noticias/nubank-fora-do-ar-aplicativo-tem-instabilidade-nesta-sexta-4/)**  
+`tecnoblog` — Impacto em pagamentos digitais
 
-**[GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança](https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/)**  
-`tecnoblog` — AGI: promessas e riscos
+**[Meta oferece 95% de desconto em IA para quem compartilhar dados](https://tecnoblog.net/noticias/meta-oferece-95-de-desconto-em-ia-para-quem-compartilhar-dados/)**  
+`tecnoblog` — Incentiva coleta de dados
 
-**[De Chaves a LLMs: como a programação chegou à linguagem natural](https://canaltech.com.br/software/de-chaves-a-llms-como-a-programacao-chegou-a-linguagem-natural/)**  
-`canaltech` — LLMs transformam programação tradicional
+**[Do terremoto ao tornado: como a tecnologia tenta antecipar eventos extremos](https://canaltech.com.br/ciencia-e-espaco/do-terremoto-ao-tornado-como-a-tecnologia-tenta-antecipar-eventos-extremos/)**  
+`canaltech` — Previsão de desastres em tempo real
 
 <br/>
 
-> GPT-6 Astra marca nova fronteira na IA generativa, mas também traz sérias preocupações de segurança e ética que exigem regulamentação urgente. Enquanto isso, a descoberta de bugs críticos em Linux por uma IA chinesa evidencia a necessidade de revisões contínuas de código aberto para proteger infraestruturas críticas.
+> A proposta da Meta de oferecer 95% de desconto em IA para quem compartilhar dados reflete a crescente valorização da inteligência artificial como commodity de baixo custo, estimulando um debate sobre privacidade e monetização de dados. Essa iniciativa pode acelerar a adoção de modelos de IA em empresas menores, ao mesmo tempo que aumenta a pressão regulatória sobre práticas de coleta de dados.
