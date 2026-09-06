@@ -32,15 +32,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Nubank fora do ar: Pix volta a funcionar após instabilidade nesta sexta (4)](https://tecnoblog.net/noticias/nubank-fora-do-ar-aplicativo-tem-instabilidade-nesta-sexta-4/)**  
-`tecnoblog` — Impacto em pagamentos digitais
-
 **[Meta oferece 95% de desconto em IA para quem compartilhar dados](https://tecnoblog.net/noticias/meta-oferece-95-de-desconto-em-ia-para-quem-compartilhar-dados/)**  
-`tecnoblog` — Incentiva coleta de dados
+`tecnoblog` — Meta incentiva dados com desconto
 
-**[Do terremoto ao tornado: como a tecnologia tenta antecipar eventos extremos](https://canaltech.com.br/ciencia-e-espaco/do-terremoto-ao-tornado-como-a-tecnologia-tenta-antecipar-eventos-extremos/)**  
-`canaltech` — Previsão de desastres em tempo real
+**[Wikipédia perdeu acessos após resumos de IA do Google, diz estudo](https://tecnoblog.net/noticias/wikipedia-perdeu-acessos-apos-resumos-de-ia-do-google-diz-estudo/)**  
+`tecnoblog` — Wikipedia perde tráfego por IA
+
+**[7 prompts do ChatGPT que melhoram qualquer texto sem criar palavras por você](https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/)**  
+`canaltech` — ChatGPT prompts melhoram textos automaticamente
 
 <br/>
 
-> A proposta da Meta de oferecer 95% de desconto em IA para quem compartilhar dados reflete a crescente valorização da inteligência artificial como commodity de baixo custo, estimulando um debate sobre privacidade e monetização de dados. Essa iniciativa pode acelerar a adoção de modelos de IA em empresas menores, ao mesmo tempo que aumenta a pressão regulatória sobre práticas de coleta de dados.
+> O Meta está apostando em monetizar dados pessoais, oferecendo 95% de desconto em IA para quem compartilha informações, o que levanta questões éticas sobre privacidade. Enquanto isso, a Wikipedia experimenta queda de acessos devido à proliferação de resumos gerados por IA do Google, evidenciando o desafio de equilibrar inovação e preservação de conteúdo original.
