@@ -32,15 +32,15 @@ PostgreSQL · MySQL · MongoDB · Firebase
 
 <br/>
 
-**[Meta oferece 95% de desconto em IA para quem compartilhar dados](https://tecnoblog.net/noticias/meta-oferece-95-de-desconto-em-ia-para-quem-compartilhar-dados/)**  
-`tecnoblog` — Meta incentiva dados com desconto
+**[Nubank fora do ar: Pix volta a funcionar após instabilidade nesta sexta (4)](https://tecnoblog.net/noticias/nubank-fora-do-ar-aplicativo-tem-instabilidade-nesta-sexta-4/)**  
+`tecnoblog` — Interrupção de pagamentos digitais
 
-**[Wikipédia perdeu acessos após resumos de IA do Google, diz estudo](https://tecnoblog.net/noticias/wikipedia-perdeu-acessos-apos-resumos-de-ia-do-google-diz-estudo/)**  
-`tecnoblog` — Wikipedia perde tráfego por IA
+**[PicPay caiu? Clientes tiveram problemas no Pix nesta sexta-feira (4)](https://tecnoblog.net/noticias/picpay-caiu-clientes-relatam-problemas-no-pix-nesta-sexta-feira-4/)**  
+`tecnoblog` — Problemas no Pix, impacto geral
 
-**[7 prompts do ChatGPT que melhoram qualquer texto sem criar palavras por você](https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/)**  
-`canaltech` — ChatGPT prompts melhoram textos automaticamente
+**[WhatsApp pode liberar chamadas para quem não tem conta; entenda](https://canaltech.com.br/apps/whatsapp-pode-liberar-chamadas-para-quem-nao-tem-conta-entenda/)**  
+`canaltech` — WhatsApp pode chamar sem conta
 
 <br/>
 
-> O Meta está apostando em monetizar dados pessoais, oferecendo 95% de desconto em IA para quem compartilha informações, o que levanta questões éticas sobre privacidade. Enquanto isso, a Wikipedia experimenta queda de acessos devido à proliferação de resumos gerados por IA do Google, evidenciando o desafio de equilibrar inovação e preservação de conteúdo original.
+> O recente indisponibilidade do Nubank expôs a fragilidade de infraestruturas financeiras digitais, mostrando como falhas de backend podem interromper todo o ecossistema de pagamentos. A recuperação rápida do Pix demonstra a importância de arquiteturas resilientes e monitoramento contínuo em serviços críticos.
